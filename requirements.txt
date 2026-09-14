@@ -1,0 +1,9 @@
+# Analyses, verifier and figure scripts (run without the imagery)
+numpy>=2.0
+matplotlib==3.10.3      # the figure scripts reproduce the committed PNGs pixel for pixel at this version
+
+# Training, scoring and tiled inference (need the imagery)
+ultralytics==8.4.126
+torch>=2.4
+torchvision>=0.19
+opencv-python>=4.10

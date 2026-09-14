@@ -1,0 +1,14 @@
+# SOCC-Bench study M: all four sessions pooled, split by flight family
+#
+# Ultralytics resolves `path` against the working directory, so run from the
+# repository root. The images are released separately; images/ and labels/
+# are populated from assignment.csv, which lists every frame and its split.
+#
+# train venues: ['covered_walkway', 'park_deck', 'rooftop_court']   test venues: ['covered_walkway', 'park_deck', 'rooftop_court']
+# val: held-out flight families ['S3_A_hoverpairs', 'S2_PAIR_occ25']
+path: results/protocol/study_M
+train: images/train
+val: images/val
+test: images/test
+nc: 3
+names: ['rc_car', 'atv_sherp', 'truck_peterbilt']

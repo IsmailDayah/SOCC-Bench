@@ -1,0 +1,70 @@
+# YOLOv8n with a P2/4 detection level AND CBAM attention.
+#
+# Derived from ultralytics/cfg/models/v8/yolov8-p2.yaml (AGPL-3.0). The backbone and
+# the P2 head are unchanged; the only edit is four CBAM modules (Woo et al., 2018;
+# channel then spatial attention), one on each detection feature map immediately
+# before Detect - layers 18/21/24/27, the four tensors Detect consumes - and none
+# in the backbone. P2 and P2+CBAM therefore differ by exactly four modules.
+#
+# The filename carries 'n', which is how Ultralytics selects the n row of `scales`;
+# without it a different-sized model is built.
+#
+# The channel numbers are required, not decoration. CBAM's signature is
+# (c1, kernel_size) and it is not in parse_model's `base_modules`, so Ultralytics
+# does not inject the input channel count - it calls CBAM(*args) verbatim. The
+# widths below were measured at each Detect feeder with a forward pass and are
+# correct for scale 'n' only.
+nc: 3 # rc_car, atv_sherp, truck_peterbilt
+scales:
+  # [depth, width, max_channels]
+  n: [0.33, 0.25, 1024]
+  s: [0.33, 0.50, 1024]
+  m: [0.67, 0.75, 768]
+  l: [1.00, 1.00, 512]
+  x: [1.00, 1.25, 512]
+
+backbone:
+  # [from, repeats, module, args]
+  - [-1, 1, Conv, [64, 3, 2]] # 0-P1/2
+  - [-1, 1, Conv, [128, 3, 2]] # 1-P2/4
+  - [-1, 3, C2f, [128, True]]
+  - [-1, 1, Conv, [256, 3, 2]] # 3-P3/8
+  - [-1, 6, C2f, [256, True]]
+  - [-1, 1, Conv, [512, 3, 2]] # 5-P4/16
+  - [-1, 6, C2f, [512, True]]
+  - [-1, 1, Conv, [1024, 3, 2]] # 7-P5/32
+  - [-1, 3, C2f, [1024, True]]
+  - [-1, 1, SPPF, [1024, 5]] # 9
+
+head:
+  - [-1, 1, nn.Upsample, [None, 2, "nearest"]]
+  - [[-1, 6], 1, Concat, [1]] # cat backbone P4
+  - [-1, 3, C2f, [512]] # 12
+
+  - [-1, 1, nn.Upsample, [None, 2, "nearest"]]
+  - [[-1, 4], 1, Concat, [1]] # cat backbone P3
+  - [-1, 3, C2f, [256]] # 15 (P3/8-small)
+
+  - [-1, 1, nn.Upsample, [None, 2, "nearest"]]
+  - [[-1, 2], 1, Concat, [1]] # cat backbone P2
+  - [-1, 3, C2f, [128]] # 18 (P2/4-xsmall)
+
+  - [-1, 1, Conv, [128, 3, 2]]
+  - [[-1, 15], 1, Concat, [1]] # cat head P3
+  - [-1, 3, C2f, [256]] # 21 (P3/8-small)
+
+  - [-1, 1, Conv, [256, 3, 2]]
+  - [[-1, 12], 1, Concat, [1]] # cat head P4
+  - [-1, 3, C2f, [512]] # 24 (P4/16-medium)
+
+  - [-1, 1, Conv, [512, 3, 2]]
+  - [[-1, 9], 1, Concat, [1]] # cat head P5
+  - [-1, 3, C2f, [1024]] # 27 (P5/32-large)
+
+  # ---- CBAM on each detection feature map (the only change vs stock p2) ------
+  - [18, 1, CBAM, [32, 7]] # 28 - P2/4  attention  (32 ch)
+  - [21, 1, CBAM, [64, 7]] # 29 - P3/8  attention  (64 ch)
+  - [24, 1, CBAM, [128, 7]] # 30 - P4/16 attention (128 ch)
+  - [27, 1, CBAM, [256, 7]] # 31 - P5/32 attention (256 ch)
+
+  - [[28, 29, 30, 31], 1, Detect, [nc]] # Detect(P2, P3, P4, P5)

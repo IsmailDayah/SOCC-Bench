@@ -1,0 +1,5 @@
+study,model,preset,seed,imgsz,batch,epochs,train_frames,test_frames,train_min,gpu,slice,n,mAP50,mAP50_95,precision,recall
+M,fasterrcnn,baseline,123,1280,24,100,10153,2659,215.5,NVIDIA H100 80GB HBM3,ALL,,0.6380,,,0.6563
+M,fasterrcnn,baseline,123,1280,24,100,10153,2659,215.5,NVIDIA H100 80GB HBM3,class:rc_car,2329,0.6130,,,0.6685
+M,fasterrcnn,baseline,123,1280,24,100,10153,2659,215.5,NVIDIA H100 80GB HBM3,class:atv_sherp,927,0.5813,,,0.5653
+M,fasterrcnn,baseline,123,1280,24,100,10153,2659,215.5,NVIDIA H100 80GB HBM3,class:truck_peterbilt,911,0.7197,,,0.7179

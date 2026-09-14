@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "SOCC-Bench: small and occluded object detection from a low-altitude UAV"
+abstract: >-
+  A benchmark in which target scale and occlusion are physically staged during
+  capture and measured afterwards, with a pre-registered, seed-paired evaluation
+  of architectural, paradigm, data-regime and inference-time remedies for
+  small-object detection.
+type: software
+authors:
+  - family-names: Abdullahi
+    given-names: Ismail Dayah
+repository-code: "https://github.com/IsmailDayah/SOCC-Bench"
+version: "1.0.0"
+date-released: "2026-09-14"
+license: CC-BY-4.0
+keywords:
+  - object detection
+  - small object detection
+  - occlusion
+  - UAV
+  - aerial imagery
+  - benchmark
+  - pre-registration

@@ -1,0 +1,9 @@
+study,model,preset,seed,imgsz,batch,epochs,train_frames,test_frames,train_min,gpu,slice,n,mAP50,mAP50_95,precision,recall
+M,rtdetr-l,baseline,42,1280,24,100,10153,2659,520.0,NVIDIA H100 80GB HBM3,ALL,,0.5660,0.3269,0.8272,0.4892
+M,rtdetr-l,baseline,42,1280,24,100,10153,2659,520.0,NVIDIA H100 80GB HBM3,class:rc_car,,0.6407,0.3461,,
+M,rtdetr-l,baseline,42,1280,24,100,10153,2659,520.0,NVIDIA H100 80GB HBM3,class:atv_sherp,,0.5060,0.3063,,
+M,rtdetr-l,baseline,42,1280,24,100,10153,2659,520.0,NVIDIA H100 80GB HBM3,class:truck_peterbilt,,0.5514,0.3284,,
+M,rtdetr-l,baseline,42,1280,24,100,10153,2659,520.0,NVIDIA H100 80GB HBM3,size_band:12-20,1149,,,,
+M,rtdetr-l,baseline,42,1280,24,100,10153,2659,520.0,NVIDIA H100 80GB HBM3,size_band:20-32,1748,,,,
+M,rtdetr-l,baseline,42,1280,24,100,10153,2659,520.0,NVIDIA H100 80GB HBM3,size_band:32+,277,,,,
+M,rtdetr-l,baseline,42,1280,24,100,10153,2659,520.0,NVIDIA H100 80GB HBM3,size_band:<12,993,,,,

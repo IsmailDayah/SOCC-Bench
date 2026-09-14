@@ -1,0 +1,36 @@
+=== WHOLE FRAME (tiles=1) ===
+  120 frames | 1x1 tiles, overlap 0.15 | imgsz 1280 conf 0.25
+
+  band           GT   found   recall
+  <12           239      17   0.0711
+  12-20          42      26   0.6190
+  20-32          46      45   0.9783
+
+  box budget: 1.27 boxes/image (152 over 120 frames)
+  NOTE: a recall gain that arrives with a large budget increase is not a
+  gain - compare the budget against the whole-frame run.
+
+=== 2x2 TILED ===
+  120 frames | 2x2 tiles, overlap 0.15 | imgsz 1280 conf 0.25
+
+  band           GT   found   recall
+  <12           239      52   0.2176
+  12-20          42      32   0.7619
+  20-32          46      45   0.9783
+
+  box budget: 1.49 boxes/image (179 over 120 frames)
+  NOTE: a recall gain that arrives with a large budget increase is not a
+  gain - compare the budget against the whole-frame run.
+
+=== 3x3 TILED ===
+  120 frames | 3x3 tiles, overlap 0.15 | imgsz 1280 conf 0.25
+
+  band           GT   found   recall
+  <12           239      62   0.2594
+  12-20          42      22   0.5238
+  20-32          46      43   0.9348
+
+  box budget: 1.35 boxes/image (162 over 120 frames)
+  NOTE: a recall gain that arrives with a large budget increase is not a
+  gain - compare the budget against the whole-frame run.
+PROBE COMPLETE

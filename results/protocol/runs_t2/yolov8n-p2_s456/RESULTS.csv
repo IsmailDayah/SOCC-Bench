@@ -1,0 +1,9 @@
+study,model,preset,seed,imgsz,batch,epochs,train_frames,test_frames,train_min,gpu,slice,n,mAP50,mAP50_95,precision,recall
+M,yolov8n-p2,baseline,456,1280,24,100,10153,2659,241.6,NVIDIA A40,ALL,,0.6617,0.4247,0.8388,0.6232
+M,yolov8n-p2,baseline,456,1280,24,100,10153,2659,241.6,NVIDIA A40,class:rc_car,,0.7100,0.4205,,
+M,yolov8n-p2,baseline,456,1280,24,100,10153,2659,241.6,NVIDIA A40,class:atv_sherp,,0.6202,0.4118,,
+M,yolov8n-p2,baseline,456,1280,24,100,10153,2659,241.6,NVIDIA A40,class:truck_peterbilt,,0.6549,0.4418,,
+M,yolov8n-p2,baseline,456,1280,24,100,10153,2659,241.6,NVIDIA A40,size_band:12-20,1149,,,,
+M,yolov8n-p2,baseline,456,1280,24,100,10153,2659,241.6,NVIDIA A40,size_band:20-32,1748,,,,
+M,yolov8n-p2,baseline,456,1280,24,100,10153,2659,241.6,NVIDIA A40,size_band:32+,277,,,,
+M,yolov8n-p2,baseline,456,1280,24,100,10153,2659,241.6,NVIDIA A40,size_band:<12,993,,,,

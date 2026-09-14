@@ -1,0 +1,15 @@
+{
+  "fasterrcnn": {
+    "median_ms": 885.3,
+    "n": 27,
+    "weights": "fasterrcnn seed 123"
+  },
+  "yolov8n": {
+    "median_ms": 140.7,
+    "n": 27,
+    "weights": "yolov8n baseline seed 123"
+  },
+  "ratio_frcnn_over_yolov8n": 6.29,
+  "hardware": "CPU",
+  "note": "Within-hardware ratio on CPU. Absolute values are not comparable to the GPU timings in INFERENCE_SPEED.csv."
+}

@@ -1,0 +1,25 @@
+study,model,preset,seed,imgsz,batch,epochs,train_frames,test_frames,train_min,gpu,slice,n,mAP50,mAP50_95,precision,recall
+M,yolov8n,baseline,42,1280,24,100,10153,2659,217.2,NVIDIA A40,ALL,,0.6720,0.4403,0.8733,0.6132
+M,yolov8n,baseline,42,1280,24,100,10153,2659,217.2,NVIDIA A40,class:rc_car,,0.7110,0.4491,,
+M,yolov8n,baseline,42,1280,24,100,10153,2659,217.2,NVIDIA A40,class:atv_sherp,,0.6000,0.4041,,
+M,yolov8n,baseline,42,1280,24,100,10153,2659,217.2,NVIDIA A40,class:truck_peterbilt,,0.7050,0.4676,,
+M,yolov8n,baseline,42,1280,24,100,10153,2659,217.2,NVIDIA A40,size_band:12-20,1149,,,,
+M,yolov8n,baseline,42,1280,24,100,10153,2659,217.2,NVIDIA A40,size_band:20-32,1748,,,,
+M,yolov8n,baseline,42,1280,24,100,10153,2659,217.2,NVIDIA A40,size_band:32+,277,,,,
+M,yolov8n,baseline,42,1280,24,100,10153,2659,217.2,NVIDIA A40,size_band:<12,993,,,,
+M,yolov8n,baseline,123,1280,24,100,10153,2659,175.9,NVIDIA A40,ALL,,0.6963,0.4519,0.8528,0.6252
+M,yolov8n,baseline,123,1280,24,100,10153,2659,175.9,NVIDIA A40,class:rc_car,,0.7177,0.4240,,
+M,yolov8n,baseline,123,1280,24,100,10153,2659,175.9,NVIDIA A40,class:atv_sherp,,0.6461,0.4342,,
+M,yolov8n,baseline,123,1280,24,100,10153,2659,175.9,NVIDIA A40,class:truck_peterbilt,,0.7252,0.4976,,
+M,yolov8n,baseline,123,1280,24,100,10153,2659,175.9,NVIDIA A40,size_band:12-20,1149,,,,
+M,yolov8n,baseline,123,1280,24,100,10153,2659,175.9,NVIDIA A40,size_band:20-32,1748,,,,
+M,yolov8n,baseline,123,1280,24,100,10153,2659,175.9,NVIDIA A40,size_band:32+,277,,,,
+M,yolov8n,baseline,123,1280,24,100,10153,2659,175.9,NVIDIA A40,size_band:<12,993,,,,
+M,yolov8n,baseline,456,1280,24,100,10153,2659,190.0,NVIDIA A40,ALL,,0.6604,0.4233,0.8143,0.6023
+M,yolov8n,baseline,456,1280,24,100,10153,2659,190.0,NVIDIA A40,class:rc_car,,0.6981,0.4245,,
+M,yolov8n,baseline,456,1280,24,100,10153,2659,190.0,NVIDIA A40,class:atv_sherp,,0.6164,0.4050,,
+M,yolov8n,baseline,456,1280,24,100,10153,2659,190.0,NVIDIA A40,class:truck_peterbilt,,0.6666,0.4404,,
+M,yolov8n,baseline,456,1280,24,100,10153,2659,190.0,NVIDIA A40,size_band:12-20,1149,,,,
+M,yolov8n,baseline,456,1280,24,100,10153,2659,190.0,NVIDIA A40,size_band:20-32,1748,,,,
+M,yolov8n,baseline,456,1280,24,100,10153,2659,190.0,NVIDIA A40,size_band:32+,277,,,,
+M,yolov8n,baseline,456,1280,24,100,10153,2659,190.0,NVIDIA A40,size_band:<12,993,,,,

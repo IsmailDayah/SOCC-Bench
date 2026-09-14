@@ -1,0 +1,23 @@
+# Imagery, video and model weights are not part of this repository
+*.jpg
+*.jpeg
+*.avi
+*.mp4
+*.mov
+*.pt
+*.pth
+*.onnx
+*.engine
+*.zip
+results/protocol/study_*/images/
+results/protocol/study_*/labels/
+results/protocol/runs/
+
+# Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

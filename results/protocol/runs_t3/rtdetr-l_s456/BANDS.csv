@@ -1,0 +1,14 @@
+tag,slice,n,found,recall,recall_any_class
+M_rtdetr-l_baseline_s456,size:<12,993,96,0.0967,0.0967
+M_rtdetr-l_baseline_s456,size:12-20,1149,776,0.6754,0.6762
+M_rtdetr-l_baseline_s456,size:20-32,1748,1635,0.9354,0.9365
+M_rtdetr-l_baseline_s456,size:32+,277,270,0.9747,0.9747
+M_rtdetr-l_baseline_s456,occ:OCCLUDED,395,360,0.9114,
+M_rtdetr-l_baseline_s456,occ:LIGHT,47,38,0.8085,
+M_rtdetr-l_baseline_s456,occ:BYPASSED,239,238,0.9958,
+M_rtdetr-l_baseline_s456,occ:AMBIGUOUS,500,430,0.8600,
+M_rtdetr-l_baseline_s456,class:rc_car,2329,1655,0.7106,
+M_rtdetr-l_baseline_s456,class:atv_sherp,927,552,0.5955,
+M_rtdetr-l_baseline_s456,class:truck_peterbilt,911,570,0.6257,
+M_rtdetr-l_baseline_s456,pred_budget,2659,14009,5.2685,0.25
+M_rtdetr-l_baseline_s456,halluc_fullyocc,159,16,0.1006,0.25

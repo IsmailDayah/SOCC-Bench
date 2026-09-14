@@ -1,0 +1,25 @@
+arm,seed,configured,actual,best_epoch,best_metric,train_min
+fasterrcnn,123,100,89,59,val_loss 0.08728,215.5
+fasterrcnn,42,100,54,24,val_loss 0.08778,133.0
+fasterrcnn,456,100,73,43,val_loss 0.08698,191.4
+yolov8n-cbam,123,100,66,36,fitness 0.7940,147.0
+yolov8n-cbam,42,100,88,56,fitness 0.7889,195.0
+yolov8n-cbam,456,100,87,57,fitness 0.7898,197.9
+yolov8n-p2-cbam,123,100,100,72,fitness 0.7918,389.9
+yolov8n-p2-cbam,42,100,82,52,fitness 0.7919,315.0
+yolov8n-p2-cbam,456,100,79,49,fitness 0.7908,303.3
+yolov8n-p2,123,100,65,35,fitness 0.7949,234.8
+yolov8n-p2,42,100,78,48,fitness 0.7956,276.8
+yolov8n-p2,456,100,67,37,fitness 0.7897,240.3
+yolov8n-p2_augmented,123,100,84,54,fitness 0.6730,305.4
+yolov8n-p2_augmented,42,100,75,45,fitness 0.6672,271.4
+yolov8n-p2_augmented,456,100,82,52,fitness 0.6812,295.8
+yolov8n_augmented,123,100,36,26,fitness 0.6697,79.3
+yolov8n_augmented,42,100,20,17,fitness 0.6660,42.8
+yolov8n_augmented,456,100,76,46,fitness 0.6801,171.4
+yolov8n,123,100,52,22,fitness 0.6833,114.7
+yolov8n,42,100,78,48,fitness 0.6767,165.8
+yolov8n,456,100,88,58,fitness 0.6892,184.3
+yolov8s_augmented,123,100,85,60,fitness 0.6886,324.2
+yolov8s_augmented,42,100,33,30,fitness 0.6788,121.3
+yolov8s_augmented,456,100,63,33,fitness 0.6898,230.5

@@ -1,0 +1,1423 @@
+image,flight,target,realised,match_dist,yaw_deg,verdict,reason
+S3_PAIR_occ25_f000000.jpg,S3_PAIR_occ25,atv_sherp,,20.15,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000006.jpg,S3_PAIR_occ25,atv_sherp,,20.05,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000012.jpg,S3_PAIR_occ25,atv_sherp,,20.09,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000018.jpg,S3_PAIR_occ25,atv_sherp,,20.10,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000024.jpg,S3_PAIR_occ25,atv_sherp,,20.11,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000030.jpg,S3_PAIR_occ25,atv_sherp,,20.13,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000036.jpg,S3_PAIR_occ25,atv_sherp,,20.21,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000042.jpg,S3_PAIR_occ25,atv_sherp,,20.36,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000048.jpg,S3_PAIR_occ25,atv_sherp,,21.99,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000054.jpg,S3_PAIR_occ25,atv_sherp,,21.97,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000060.jpg,S3_PAIR_occ25,atv_sherp,,21.95,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000066.jpg,S3_PAIR_occ25,atv_sherp,,22.00,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000072.jpg,S3_PAIR_occ25,atv_sherp,,20.31,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000078.jpg,S3_PAIR_occ25,atv_sherp,,20.32,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000084.jpg,S3_PAIR_occ25,atv_sherp,,20.34,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000090.jpg,S3_PAIR_occ25,atv_sherp,,20.33,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000096.jpg,S3_PAIR_occ25,atv_sherp,,20.31,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000102.jpg,S3_PAIR_occ25,atv_sherp,,16.13,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000108.jpg,S3_PAIR_occ25,atv_sherp,,16.14,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000114.jpg,S3_PAIR_occ25,atv_sherp,,16.15,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000120.jpg,S3_PAIR_occ25,atv_sherp,,16.14,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000126.jpg,S3_PAIR_occ25,atv_sherp,,16.16,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000132.jpg,S3_PAIR_occ25,atv_sherp,,16.19,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000138.jpg,S3_PAIR_occ25,atv_sherp,,16.18,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000144.jpg,S3_PAIR_occ25,atv_sherp,,16.18,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000150.jpg,S3_PAIR_occ25,atv_sherp,,16.18,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000156.jpg,S3_PAIR_occ25,atv_sherp,,16.18,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000162.jpg,S3_PAIR_occ25,atv_sherp,,16.16,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000168.jpg,S3_PAIR_occ25,atv_sherp,,16.08,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000174.jpg,S3_PAIR_occ25,atv_sherp,,15.65,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000180.jpg,S3_PAIR_occ25,atv_sherp,,15.24,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000186.jpg,S3_PAIR_occ25,atv_sherp,,14.89,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000192.jpg,S3_PAIR_occ25,atv_sherp,,14.74,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000198.jpg,S3_PAIR_occ25,atv_sherp,,14.58,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000204.jpg,S3_PAIR_occ25,atv_sherp,,14.56,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000210.jpg,S3_PAIR_occ25,atv_sherp,,14.65,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000216.jpg,S3_PAIR_occ25,atv_sherp,,14.79,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000222.jpg,S3_PAIR_occ25,atv_sherp,,15.03,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000228.jpg,S3_PAIR_occ25,atv_sherp,,15.17,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000234.jpg,S3_PAIR_occ25,atv_sherp,,15.11,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000240.jpg,S3_PAIR_occ25,atv_sherp,,15.15,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000246.jpg,S3_PAIR_occ25,atv_sherp,,15.24,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000252.jpg,S3_PAIR_occ25,atv_sherp,,15.27,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000258.jpg,S3_PAIR_occ25,atv_sherp,,15.19,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000264.jpg,S3_PAIR_occ25,atv_sherp,,15.16,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000270.jpg,S3_PAIR_occ25,atv_sherp,,15.24,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000276.jpg,S3_PAIR_occ25,atv_sherp,,15.24,-1.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000282.jpg,S3_PAIR_occ25,atv_sherp,,15.26,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000288.jpg,S3_PAIR_occ25,atv_sherp,0.2470,7.95,1.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000294.jpg,S3_PAIR_occ25,atv_sherp,,16.69,8.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000300.jpg,S3_PAIR_occ25,atv_sherp,,16.92,9.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000306.jpg,S3_PAIR_occ25,atv_sherp,,17.03,9.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000312.jpg,S3_PAIR_occ25,atv_sherp,,17.00,9.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000318.jpg,S3_PAIR_occ25,atv_sherp,,16.98,9.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000324.jpg,S3_PAIR_occ25,atv_sherp,,16.55,9.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000330.jpg,S3_PAIR_occ25,atv_sherp,,16.46,9.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000336.jpg,S3_PAIR_occ25,atv_sherp,,16.70,9.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000342.jpg,S3_PAIR_occ25,atv_sherp,,16.19,9.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000348.jpg,S3_PAIR_occ25,atv_sherp,,14.84,9.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000354.jpg,S3_PAIR_occ25,atv_sherp,0.0000,13.31,9.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000360.jpg,S3_PAIR_occ25,atv_sherp,0.0000,11.65,9.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000366.jpg,S3_PAIR_occ25,atv_sherp,0.0000,10.52,9.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000372.jpg,S3_PAIR_occ25,atv_sherp,0.0000,10.68,9.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000378.jpg,S3_PAIR_occ25,atv_sherp,0.0000,10.29,9.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000384.jpg,S3_PAIR_occ25,atv_sherp,0.0000,10.14,9.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000390.jpg,S3_PAIR_occ25,atv_sherp,0.0000,11.60,9.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000396.jpg,S3_PAIR_occ25,atv_sherp,0.0000,13.69,9.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000402.jpg,S3_PAIR_occ25,atv_sherp,,15.23,9.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000408.jpg,S3_PAIR_occ25,atv_sherp,,16.51,9.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000414.jpg,S3_PAIR_occ25,atv_sherp,,14.98,12.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000420.jpg,S3_PAIR_occ25,atv_sherp,,16.64,22.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000426.jpg,S3_PAIR_occ25,atv_sherp,0.0000,13.48,27.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000432.jpg,S3_PAIR_occ25,atv_sherp,0.2233,13.05,28.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000438.jpg,S3_PAIR_occ25,atv_sherp,0.2079,13.03,27.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000444.jpg,S3_PAIR_occ25,atv_sherp,0.0417,12.97,27.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000450.jpg,S3_PAIR_occ25,atv_sherp,0.0000,13.54,27.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000456.jpg,S3_PAIR_occ25,atv_sherp,0.1265,13.70,27.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000462.jpg,S3_PAIR_occ25,atv_sherp,,14.47,27.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000468.jpg,S3_PAIR_occ25,atv_sherp,,16.06,27.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000474.jpg,S3_PAIR_occ25,atv_sherp,,17.15,28.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000480.jpg,S3_PAIR_occ25,atv_sherp,,14.66,30.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000486.jpg,S3_PAIR_occ25,atv_sherp,0.0460,12.52,35.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000492.jpg,S3_PAIR_occ25,atv_sherp,0.2006,13.38,46.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000498.jpg,S3_PAIR_occ25,atv_sherp,,14.31,47.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000504.jpg,S3_PAIR_occ25,atv_sherp,,14.32,47.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000510.jpg,S3_PAIR_occ25,atv_sherp,,14.14,46.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000516.jpg,S3_PAIR_occ25,atv_sherp,,14.13,46.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000522.jpg,S3_PAIR_occ25,atv_sherp,0.0496,13.82,46.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000528.jpg,S3_PAIR_occ25,atv_sherp,0.0319,13.22,46.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000534.jpg,S3_PAIR_occ25,atv_sherp,0.1174,12.88,47.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ25_f000540.jpg,S3_PAIR_occ25,atv_sherp,,14.40,49.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000546.jpg,S3_PAIR_occ25,atv_sherp,0.0000,10.98,61.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ25_f000552.jpg,S3_PAIR_occ25,atv_sherp,,13.77,69.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ25_f000558.jpg,S3_PAIR_occ25,atv_sherp,,13.30,71.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ25_f000564.jpg,S3_PAIR_occ25,atv_sherp,,13.68,71.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ25_f000570.jpg,S3_PAIR_occ25,atv_sherp,,13.35,71.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ25_f000576.jpg,S3_PAIR_occ25,atv_sherp,,14.01,71.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000582.jpg,S3_PAIR_occ25,atv_sherp,,14.34,71.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000588.jpg,S3_PAIR_occ25,atv_sherp,,14.47,71.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000594.jpg,S3_PAIR_occ25,atv_sherp,,15.09,71.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000600.jpg,S3_PAIR_occ25,atv_sherp,,15.09,71.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000606.jpg,S3_PAIR_occ25,atv_sherp,,15.53,71.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000612.jpg,S3_PAIR_occ25,atv_sherp,,16.13,71.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000618.jpg,S3_PAIR_occ25,atv_sherp,,16.75,71.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000624.jpg,S3_PAIR_occ25,atv_sherp,,16.80,71.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000630.jpg,S3_PAIR_occ25,atv_sherp,,15.33,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000636.jpg,S3_PAIR_occ25,atv_sherp,,14.30,82.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000642.jpg,S3_PAIR_occ25,atv_sherp,,16.88,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000648.jpg,S3_PAIR_occ25,atv_sherp,,17.10,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000654.jpg,S3_PAIR_occ25,atv_sherp,,17.21,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000660.jpg,S3_PAIR_occ25,atv_sherp,,16.93,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000666.jpg,S3_PAIR_occ25,atv_sherp,,16.62,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000672.jpg,S3_PAIR_occ25,atv_sherp,,16.00,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000678.jpg,S3_PAIR_occ25,atv_sherp,,15.74,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000684.jpg,S3_PAIR_occ25,atv_sherp,,15.06,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000690.jpg,S3_PAIR_occ25,atv_sherp,,15.18,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000696.jpg,S3_PAIR_occ25,atv_sherp,,15.24,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000702.jpg,S3_PAIR_occ25,atv_sherp,,15.34,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000708.jpg,S3_PAIR_occ25,atv_sherp,,15.46,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000714.jpg,S3_PAIR_occ25,atv_sherp,,15.94,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000720.jpg,S3_PAIR_occ25,atv_sherp,,16.37,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000726.jpg,S3_PAIR_occ25,atv_sherp,,16.73,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000732.jpg,S3_PAIR_occ25,atv_sherp,,17.11,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000738.jpg,S3_PAIR_occ25,atv_sherp,,16.76,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000744.jpg,S3_PAIR_occ25,atv_sherp,,16.63,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000750.jpg,S3_PAIR_occ25,atv_sherp,,16.52,87.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000756.jpg,S3_PAIR_occ25,atv_sherp,,14.80,89.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000762.jpg,S3_PAIR_occ25,atv_sherp,0.0000,9.90,95.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ25_f000768.jpg,S3_PAIR_occ25,atv_sherp,0.0000,13.87,100.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ25_f000774.jpg,S3_PAIR_occ25,atv_sherp,0.0000,12.64,110.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ25_f000780.jpg,S3_PAIR_occ25,atv_sherp,,16.80,117.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000786.jpg,S3_PAIR_occ25,atv_sherp,,16.56,120.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000792.jpg,S3_PAIR_occ25,atv_sherp,,16.44,120.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000798.jpg,S3_PAIR_occ25,atv_sherp,,16.26,120.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000804.jpg,S3_PAIR_occ25,atv_sherp,,16.11,120.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000810.jpg,S3_PAIR_occ25,atv_sherp,,16.59,120.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000816.jpg,S3_PAIR_occ25,atv_sherp,,16.77,120.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000822.jpg,S3_PAIR_occ25,atv_sherp,,16.59,120.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000828.jpg,S3_PAIR_occ25,atv_sherp,,16.54,120.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000834.jpg,S3_PAIR_occ25,atv_sherp,,17.17,120.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000840.jpg,S3_PAIR_occ25,atv_sherp,,17.22,120.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000846.jpg,S3_PAIR_occ25,atv_sherp,,16.93,120.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000852.jpg,S3_PAIR_occ25,atv_sherp,,16.66,120.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000858.jpg,S3_PAIR_occ25,atv_sherp,,15.92,121.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000864.jpg,S3_PAIR_occ25,atv_sherp,0.1009,13.10,132.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ25_f000870.jpg,S3_PAIR_occ25,atv_sherp,,15.74,140.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000876.jpg,S3_PAIR_occ25,atv_sherp,,15.45,145.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000882.jpg,S3_PAIR_occ25,atv_sherp,0.3110,12.51,151.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ25_f000888.jpg,S3_PAIR_occ25,atv_sherp,,14.75,161.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000894.jpg,S3_PAIR_occ25,atv_sherp,,15.02,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000900.jpg,S3_PAIR_occ25,atv_sherp,,13.48,163.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ25_f000906.jpg,S3_PAIR_occ25,atv_sherp,,13.18,164.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ25_f000912.jpg,S3_PAIR_occ25,atv_sherp,,12.22,164.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ25_f000918.jpg,S3_PAIR_occ25,atv_sherp,0.1156,12.05,163.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ25_f000924.jpg,S3_PAIR_occ25,atv_sherp,0.0045,12.06,163.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ25_f000930.jpg,S3_PAIR_occ25,atv_sherp,0.0000,12.69,163.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ25_f000936.jpg,S3_PAIR_occ25,atv_sherp,0.0188,10.18,163.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ25_f000942.jpg,S3_PAIR_occ25,atv_sherp,0.1124,9.92,163.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ25_f000948.jpg,S3_PAIR_occ25,atv_sherp,0.1440,9.34,163.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ25_f000954.jpg,S3_PAIR_occ25,atv_sherp,0.1622,9.94,163.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ25_f000960.jpg,S3_PAIR_occ25,atv_sherp,0.1057,11.58,163.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ25_f000966.jpg,S3_PAIR_occ25,atv_sherp,0.0000,12.59,163.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ25_f000972.jpg,S3_PAIR_occ25,atv_sherp,0.0101,13.73,163.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ25_f000978.jpg,S3_PAIR_occ25,atv_sherp,0.0679,13.09,163.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ25_f000984.jpg,S3_PAIR_occ25,atv_sherp,0.3940,13.97,163.0,OCCLUDED,above floor p75
+S3_PAIR_occ25_f000990.jpg,S3_PAIR_occ25,atv_sherp,,14.31,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f000996.jpg,S3_PAIR_occ25,atv_sherp,,15.26,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001002.jpg,S3_PAIR_occ25,atv_sherp,,15.41,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001008.jpg,S3_PAIR_occ25,atv_sherp,,15.27,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001014.jpg,S3_PAIR_occ25,atv_sherp,,17.45,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001020.jpg,S3_PAIR_occ25,atv_sherp,,14.87,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001026.jpg,S3_PAIR_occ25,atv_sherp,,14.92,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001032.jpg,S3_PAIR_occ25,atv_sherp,,19.66,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001038.jpg,S3_PAIR_occ25,atv_sherp,,19.58,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001044.jpg,S3_PAIR_occ25,atv_sherp,,19.28,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001050.jpg,S3_PAIR_occ25,atv_sherp,,14.61,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001056.jpg,S3_PAIR_occ25,atv_sherp,,14.78,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001062.jpg,S3_PAIR_occ25,atv_sherp,,14.65,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001068.jpg,S3_PAIR_occ25,atv_sherp,,14.76,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001074.jpg,S3_PAIR_occ25,atv_sherp,,14.73,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001080.jpg,S3_PAIR_occ25,atv_sherp,,14.17,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001086.jpg,S3_PAIR_occ25,atv_sherp,,14.10,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001092.jpg,S3_PAIR_occ25,atv_sherp,,14.73,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001098.jpg,S3_PAIR_occ25,atv_sherp,,15.18,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001104.jpg,S3_PAIR_occ25,atv_sherp,,15.31,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001110.jpg,S3_PAIR_occ25,atv_sherp,,15.12,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001116.jpg,S3_PAIR_occ25,atv_sherp,,15.07,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001122.jpg,S3_PAIR_occ25,atv_sherp,,15.06,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001128.jpg,S3_PAIR_occ25,atv_sherp,,15.46,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001134.jpg,S3_PAIR_occ25,atv_sherp,,15.74,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001140.jpg,S3_PAIR_occ25,atv_sherp,,14.82,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001146.jpg,S3_PAIR_occ25,atv_sherp,,14.72,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001152.jpg,S3_PAIR_occ25,atv_sherp,,14.83,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001158.jpg,S3_PAIR_occ25,atv_sherp,,14.64,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001164.jpg,S3_PAIR_occ25,atv_sherp,,14.66,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001170.jpg,S3_PAIR_occ25,atv_sherp,,15.06,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001176.jpg,S3_PAIR_occ25,atv_sherp,,15.48,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001182.jpg,S3_PAIR_occ25,atv_sherp,,18.20,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001188.jpg,S3_PAIR_occ25,atv_sherp,,19.65,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001194.jpg,S3_PAIR_occ25,atv_sherp,,19.88,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001200.jpg,S3_PAIR_occ25,atv_sherp,,19.99,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001206.jpg,S3_PAIR_occ25,atv_sherp,,20.79,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001212.jpg,S3_PAIR_occ25,atv_sherp,,20.84,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001218.jpg,S3_PAIR_occ25,atv_sherp,,20.70,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001224.jpg,S3_PAIR_occ25,atv_sherp,,20.45,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001230.jpg,S3_PAIR_occ25,atv_sherp,,20.77,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001236.jpg,S3_PAIR_occ25,atv_sherp,,20.70,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001242.jpg,S3_PAIR_occ25,atv_sherp,,20.38,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001248.jpg,S3_PAIR_occ25,atv_sherp,,19.49,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001254.jpg,S3_PAIR_occ25,atv_sherp,,17.57,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001260.jpg,S3_PAIR_occ25,atv_sherp,,15.68,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001266.jpg,S3_PAIR_occ25,atv_sherp,,15.37,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001272.jpg,S3_PAIR_occ25,atv_sherp,,15.33,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001278.jpg,S3_PAIR_occ25,atv_sherp,,16.46,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001284.jpg,S3_PAIR_occ25,atv_sherp,,15.50,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001290.jpg,S3_PAIR_occ25,atv_sherp,,15.70,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001296.jpg,S3_PAIR_occ25,atv_sherp,,15.61,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001302.jpg,S3_PAIR_occ25,atv_sherp,,16.02,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001308.jpg,S3_PAIR_occ25,atv_sherp,,16.37,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001314.jpg,S3_PAIR_occ25,atv_sherp,,16.22,163.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001320.jpg,S3_PAIR_occ25,atv_sherp,,21.77,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001326.jpg,S3_PAIR_occ25,atv_sherp,,21.77,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001332.jpg,S3_PAIR_occ25,atv_sherp,,21.80,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001338.jpg,S3_PAIR_occ25,atv_sherp,,21.81,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001344.jpg,S3_PAIR_occ25,atv_sherp,,21.82,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001350.jpg,S3_PAIR_occ25,atv_sherp,,21.81,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ25_f001356.jpg,S3_PAIR_occ25,atv_sherp,,21.77,164.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000000.jpg,S3_PAIR_occ50,atv_sherp,,22.03,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000006.jpg,S3_PAIR_occ50,atv_sherp,,21.95,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000012.jpg,S3_PAIR_occ50,atv_sherp,,21.98,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000018.jpg,S3_PAIR_occ50,atv_sherp,,21.94,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000024.jpg,S3_PAIR_occ50,atv_sherp,,21.98,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000030.jpg,S3_PAIR_occ50,atv_sherp,,22.01,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000036.jpg,S3_PAIR_occ50,atv_sherp,,34.01,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000042.jpg,S3_PAIR_occ50,atv_sherp,,34.16,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000048.jpg,S3_PAIR_occ50,atv_sherp,,34.28,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000054.jpg,S3_PAIR_occ50,atv_sherp,,21.97,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000060.jpg,S3_PAIR_occ50,atv_sherp,,21.99,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000066.jpg,S3_PAIR_occ50,atv_sherp,,22.02,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000072.jpg,S3_PAIR_occ50,atv_sherp,,21.98,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000078.jpg,S3_PAIR_occ50,atv_sherp,,22.01,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000084.jpg,S3_PAIR_occ50,atv_sherp,,17.82,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000090.jpg,S3_PAIR_occ50,atv_sherp,,17.82,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000096.jpg,S3_PAIR_occ50,atv_sherp,,17.82,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000102.jpg,S3_PAIR_occ50,atv_sherp,,17.79,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000108.jpg,S3_PAIR_occ50,atv_sherp,,17.81,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000114.jpg,S3_PAIR_occ50,atv_sherp,,17.82,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000120.jpg,S3_PAIR_occ50,atv_sherp,,17.85,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000126.jpg,S3_PAIR_occ50,atv_sherp,,17.86,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000132.jpg,S3_PAIR_occ50,atv_sherp,,17.97,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000138.jpg,S3_PAIR_occ50,atv_sherp,,18.04,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000144.jpg,S3_PAIR_occ50,atv_sherp,,18.01,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000150.jpg,S3_PAIR_occ50,atv_sherp,,17.74,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000156.jpg,S3_PAIR_occ50,atv_sherp,,17.55,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000162.jpg,S3_PAIR_occ50,atv_sherp,,17.28,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000168.jpg,S3_PAIR_occ50,atv_sherp,,17.15,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000174.jpg,S3_PAIR_occ50,atv_sherp,,17.15,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000180.jpg,S3_PAIR_occ50,atv_sherp,,17.18,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000186.jpg,S3_PAIR_occ50,atv_sherp,,17.38,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000192.jpg,S3_PAIR_occ50,atv_sherp,,17.59,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000198.jpg,S3_PAIR_occ50,atv_sherp,,17.79,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000204.jpg,S3_PAIR_occ50,atv_sherp,,17.96,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000210.jpg,S3_PAIR_occ50,atv_sherp,,18.15,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000216.jpg,S3_PAIR_occ50,atv_sherp,,18.27,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000222.jpg,S3_PAIR_occ50,atv_sherp,,18.46,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000228.jpg,S3_PAIR_occ50,atv_sherp,,18.55,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000234.jpg,S3_PAIR_occ50,atv_sherp,,18.60,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000240.jpg,S3_PAIR_occ50,atv_sherp,,18.71,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000246.jpg,S3_PAIR_occ50,atv_sherp,,18.78,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000252.jpg,S3_PAIR_occ50,atv_sherp,,18.83,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000258.jpg,S3_PAIR_occ50,atv_sherp,,18.91,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000264.jpg,S3_PAIR_occ50,atv_sherp,,18.92,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000270.jpg,S3_PAIR_occ50,atv_sherp,,18.91,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000276.jpg,S3_PAIR_occ50,atv_sherp,,18.84,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000282.jpg,S3_PAIR_occ50,atv_sherp,,18.88,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000288.jpg,S3_PAIR_occ50,atv_sherp,,18.89,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000294.jpg,S3_PAIR_occ50,atv_sherp,,18.89,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000300.jpg,S3_PAIR_occ50,atv_sherp,,18.88,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000306.jpg,S3_PAIR_occ50,atv_sherp,,18.89,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000312.jpg,S3_PAIR_occ50,atv_sherp,,18.81,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000318.jpg,S3_PAIR_occ50,atv_sherp,,19.40,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000324.jpg,S3_PAIR_occ50,atv_sherp,,20.85,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000330.jpg,S3_PAIR_occ50,atv_sherp,,21.77,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000336.jpg,S3_PAIR_occ50,atv_sherp,,22.58,0.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000342.jpg,S3_PAIR_occ50,atv_sherp,,14.84,5.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000348.jpg,S3_PAIR_occ50,atv_sherp,0.3949,11.64,16.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000354.jpg,S3_PAIR_occ50,atv_sherp,0.1349,10.72,17.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000360.jpg,S3_PAIR_occ50,atv_sherp,0.1523,11.08,18.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000366.jpg,S3_PAIR_occ50,atv_sherp,0.3480,12.34,18.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000372.jpg,S3_PAIR_occ50,atv_sherp,0.0454,12.33,19.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000378.jpg,S3_PAIR_occ50,atv_sherp,0.2473,11.96,19.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000384.jpg,S3_PAIR_occ50,atv_sherp,0.0454,11.87,19.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000390.jpg,S3_PAIR_occ50,atv_sherp,0.2118,12.64,19.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000396.jpg,S3_PAIR_occ50,atv_sherp,0.1692,13.90,19.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000402.jpg,S3_PAIR_occ50,atv_sherp,,15.41,19.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000408.jpg,S3_PAIR_occ50,atv_sherp,,14.43,20.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000414.jpg,S3_PAIR_occ50,atv_sherp,0.3378,12.79,30.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000420.jpg,S3_PAIR_occ50,atv_sherp,0.4058,10.50,36.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000426.jpg,S3_PAIR_occ50,atv_sherp,0.3300,9.67,36.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000432.jpg,S3_PAIR_occ50,atv_sherp,0.2745,9.19,36.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000438.jpg,S3_PAIR_occ50,atv_sherp,0.3705,10.87,36.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000444.jpg,S3_PAIR_occ50,atv_sherp,0.3797,11.65,36.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000450.jpg,S3_PAIR_occ50,atv_sherp,0.3760,11.77,36.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000456.jpg,S3_PAIR_occ50,atv_sherp,0.2778,12.27,36.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000462.jpg,S3_PAIR_occ50,atv_sherp,0.2225,12.72,36.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000468.jpg,S3_PAIR_occ50,atv_sherp,0.3242,13.08,36.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000474.jpg,S3_PAIR_occ50,atv_sherp,0.2043,12.23,39.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000480.jpg,S3_PAIR_occ50,atv_sherp,0.2980,9.34,46.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000486.jpg,S3_PAIR_occ50,atv_sherp,0.4225,10.00,46.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000492.jpg,S3_PAIR_occ50,atv_sherp,0.1711,8.83,46.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000498.jpg,S3_PAIR_occ50,atv_sherp,0.3422,9.48,46.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000504.jpg,S3_PAIR_occ50,atv_sherp,0.2341,10.23,46.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000510.jpg,S3_PAIR_occ50,atv_sherp,0.4482,10.88,46.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000516.jpg,S3_PAIR_occ50,atv_sherp,0.3237,11.25,46.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000522.jpg,S3_PAIR_occ50,atv_sherp,0.3075,11.08,46.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000528.jpg,S3_PAIR_occ50,atv_sherp,0.1779,10.74,46.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000534.jpg,S3_PAIR_occ50,atv_sherp,0.0000,10.31,46.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000540.jpg,S3_PAIR_occ50,atv_sherp,0.0864,10.15,46.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000546.jpg,S3_PAIR_occ50,atv_sherp,0.2818,9.80,46.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000552.jpg,S3_PAIR_occ50,atv_sherp,0.1590,9.81,46.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000558.jpg,S3_PAIR_occ50,atv_sherp,0.3231,10.20,49.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000564.jpg,S3_PAIR_occ50,atv_sherp,,14.10,54.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000570.jpg,S3_PAIR_occ50,atv_sherp,,14.13,54.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000576.jpg,S3_PAIR_occ50,atv_sherp,0.2589,13.64,54.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000582.jpg,S3_PAIR_occ50,atv_sherp,,14.04,54.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000588.jpg,S3_PAIR_occ50,atv_sherp,0.4030,14.00,54.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000594.jpg,S3_PAIR_occ50,atv_sherp,0.4607,13.39,54.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000600.jpg,S3_PAIR_occ50,atv_sherp,0.3733,13.10,54.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000606.jpg,S3_PAIR_occ50,atv_sherp,0.4288,13.04,54.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000612.jpg,S3_PAIR_occ50,atv_sherp,0.3353,13.13,54.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000618.jpg,S3_PAIR_occ50,atv_sherp,0.4134,13.38,54.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000624.jpg,S3_PAIR_occ50,atv_sherp,0.4789,13.66,54.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000630.jpg,S3_PAIR_occ50,atv_sherp,0.3082,13.87,54.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000636.jpg,S3_PAIR_occ50,atv_sherp,0.2389,13.84,54.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000642.jpg,S3_PAIR_occ50,atv_sherp,0.0000,11.21,57.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ50_f000648.jpg,S3_PAIR_occ50,atv_sherp,0.0000,6.50,64.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000654.jpg,S3_PAIR_occ50,atv_sherp,0.4213,8.82,69.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000660.jpg,S3_PAIR_occ50,atv_sherp,0.3250,9.52,69.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000666.jpg,S3_PAIR_occ50,atv_sherp,0.0000,10.32,69.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000672.jpg,S3_PAIR_occ50,atv_sherp,0.2938,9.70,69.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ50_f000678.jpg,S3_PAIR_occ50,atv_sherp,0.0000,7.37,69.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000684.jpg,S3_PAIR_occ50,atv_sherp,0.0334,6.79,68.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000690.jpg,S3_PAIR_occ50,atv_sherp,0.0000,7.85,68.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000696.jpg,S3_PAIR_occ50,atv_sherp,0.3071,7.57,69.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ50_f000702.jpg,S3_PAIR_occ50,atv_sherp,0.1535,8.46,69.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ50_f000708.jpg,S3_PAIR_occ50,atv_sherp,0.0000,9.67,69.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000714.jpg,S3_PAIR_occ50,atv_sherp,0.0000,9.95,69.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000720.jpg,S3_PAIR_occ50,atv_sherp,0.0000,10.53,69.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000726.jpg,S3_PAIR_occ50,atv_sherp,0.1997,12.33,71.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ50_f000732.jpg,S3_PAIR_occ50,atv_sherp,,14.26,78.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000738.jpg,S3_PAIR_occ50,atv_sherp,,13.19,83.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ50_f000744.jpg,S3_PAIR_occ50,atv_sherp,,14.29,91.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000750.jpg,S3_PAIR_occ50,atv_sherp,0.1778,12.11,92.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ50_f000756.jpg,S3_PAIR_occ50,atv_sherp,0.0000,10.52,93.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000762.jpg,S3_PAIR_occ50,atv_sherp,0.0000,10.34,93.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000768.jpg,S3_PAIR_occ50,atv_sherp,0.0376,9.84,93.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000774.jpg,S3_PAIR_occ50,atv_sherp,0.0000,9.49,93.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000780.jpg,S3_PAIR_occ50,atv_sherp,0.0000,9.19,93.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000786.jpg,S3_PAIR_occ50,atv_sherp,0.0968,9.40,93.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000792.jpg,S3_PAIR_occ50,atv_sherp,0.3326,9.72,93.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000798.jpg,S3_PAIR_occ50,atv_sherp,0.3342,10.10,93.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000804.jpg,S3_PAIR_occ50,atv_sherp,0.0000,10.81,93.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000810.jpg,S3_PAIR_occ50,atv_sherp,0.0000,10.84,93.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000816.jpg,S3_PAIR_occ50,atv_sherp,0.1633,11.18,93.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ50_f000822.jpg,S3_PAIR_occ50,atv_sherp,0.2176,11.46,93.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ50_f000828.jpg,S3_PAIR_occ50,atv_sherp,0.0000,12.84,93.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000834.jpg,S3_PAIR_occ50,atv_sherp,0.0000,11.35,99.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000840.jpg,S3_PAIR_occ50,atv_sherp,0.0000,12.53,104.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000846.jpg,S3_PAIR_occ50,atv_sherp,0.0000,8.55,107.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000852.jpg,S3_PAIR_occ50,atv_sherp,0.0000,7.52,107.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000858.jpg,S3_PAIR_occ50,atv_sherp,0.0000,8.15,107.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000864.jpg,S3_PAIR_occ50,atv_sherp,0.0000,10.13,107.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000870.jpg,S3_PAIR_occ50,atv_sherp,0.0000,5.95,107.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000876.jpg,S3_PAIR_occ50,atv_sherp,0.0320,5.75,107.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000882.jpg,S3_PAIR_occ50,atv_sherp,0.0065,8.08,107.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000888.jpg,S3_PAIR_occ50,atv_sherp,0.0000,8.78,107.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000894.jpg,S3_PAIR_occ50,atv_sherp,0.0000,9.53,107.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000900.jpg,S3_PAIR_occ50,atv_sherp,,18.20,112.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000906.jpg,S3_PAIR_occ50,atv_sherp,0.0000,11.13,116.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000912.jpg,S3_PAIR_occ50,atv_sherp,,16.52,121.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f000918.jpg,S3_PAIR_occ50,atv_sherp,0.0000,12.92,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000924.jpg,S3_PAIR_occ50,atv_sherp,0.1295,12.58,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000930.jpg,S3_PAIR_occ50,atv_sherp,0.2481,12.40,127.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ50_f000936.jpg,S3_PAIR_occ50,atv_sherp,0.4084,11.59,127.0,OCCLUDED,above floor p75
+S3_PAIR_occ50_f000942.jpg,S3_PAIR_occ50,atv_sherp,0.0583,12.09,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000948.jpg,S3_PAIR_occ50,atv_sherp,0.0911,12.26,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000954.jpg,S3_PAIR_occ50,atv_sherp,0.0441,12.41,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000960.jpg,S3_PAIR_occ50,atv_sherp,0.1721,12.01,127.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ50_f000966.jpg,S3_PAIR_occ50,atv_sherp,0.2472,11.64,127.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ50_f000972.jpg,S3_PAIR_occ50,atv_sherp,0.0000,11.55,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000978.jpg,S3_PAIR_occ50,atv_sherp,0.0676,11.55,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000984.jpg,S3_PAIR_occ50,atv_sherp,0.0318,11.78,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f000990.jpg,S3_PAIR_occ50,atv_sherp,0.1752,12.00,127.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ50_f000996.jpg,S3_PAIR_occ50,atv_sherp,0.1211,11.38,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f001002.jpg,S3_PAIR_occ50,atv_sherp,0.2153,11.64,127.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ50_f001008.jpg,S3_PAIR_occ50,atv_sherp,0.0000,12.17,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f001014.jpg,S3_PAIR_occ50,atv_sherp,0.0000,12.70,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f001020.jpg,S3_PAIR_occ50,atv_sherp,0.0000,13.18,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f001026.jpg,S3_PAIR_occ50,atv_sherp,0.0000,13.47,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f001032.jpg,S3_PAIR_occ50,atv_sherp,0.0000,13.69,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f001038.jpg,S3_PAIR_occ50,atv_sherp,0.0000,13.49,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f001044.jpg,S3_PAIR_occ50,atv_sherp,0.0000,13.49,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f001050.jpg,S3_PAIR_occ50,atv_sherp,0.0000,13.61,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f001056.jpg,S3_PAIR_occ50,atv_sherp,0.0000,13.57,127.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f001062.jpg,S3_PAIR_occ50,atv_sherp,0.0000,11.93,132.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f001068.jpg,S3_PAIR_occ50,atv_sherp,,15.47,141.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001074.jpg,S3_PAIR_occ50,atv_sherp,,14.87,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001080.jpg,S3_PAIR_occ50,atv_sherp,,16.18,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001086.jpg,S3_PAIR_occ50,atv_sherp,,16.19,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001092.jpg,S3_PAIR_occ50,atv_sherp,,16.78,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001098.jpg,S3_PAIR_occ50,atv_sherp,,16.85,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001104.jpg,S3_PAIR_occ50,atv_sherp,,16.78,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001110.jpg,S3_PAIR_occ50,atv_sherp,,15.70,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001116.jpg,S3_PAIR_occ50,atv_sherp,,16.03,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001122.jpg,S3_PAIR_occ50,atv_sherp,,14.80,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001128.jpg,S3_PAIR_occ50,atv_sherp,,14.45,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001134.jpg,S3_PAIR_occ50,atv_sherp,,14.72,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001140.jpg,S3_PAIR_occ50,atv_sherp,,15.69,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001146.jpg,S3_PAIR_occ50,atv_sherp,,16.44,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001152.jpg,S3_PAIR_occ50,atv_sherp,,15.68,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001158.jpg,S3_PAIR_occ50,atv_sherp,,15.83,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001164.jpg,S3_PAIR_occ50,atv_sherp,,16.61,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001170.jpg,S3_PAIR_occ50,atv_sherp,,16.94,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001176.jpg,S3_PAIR_occ50,atv_sherp,,16.75,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001182.jpg,S3_PAIR_occ50,atv_sherp,,17.36,149.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001188.jpg,S3_PAIR_occ50,atv_sherp,,16.79,150.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001194.jpg,S3_PAIR_occ50,atv_sherp,,16.94,158.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001200.jpg,S3_PAIR_occ50,atv_sherp,,15.11,167.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001206.jpg,S3_PAIR_occ50,atv_sherp,,15.31,178.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001212.jpg,S3_PAIR_occ50,atv_sherp,,17.04,-176.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001218.jpg,S3_PAIR_occ50,atv_sherp,,18.45,-175.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001224.jpg,S3_PAIR_occ50,atv_sherp,,21.18,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001230.jpg,S3_PAIR_occ50,atv_sherp,,19.33,-172.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001236.jpg,S3_PAIR_occ50,atv_sherp,,19.23,-172.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001242.jpg,S3_PAIR_occ50,atv_sherp,,19.16,-172.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001248.jpg,S3_PAIR_occ50,atv_sherp,,19.12,-172.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001254.jpg,S3_PAIR_occ50,atv_sherp,,18.94,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001260.jpg,S3_PAIR_occ50,atv_sherp,,18.85,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001266.jpg,S3_PAIR_occ50,atv_sherp,,18.62,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001272.jpg,S3_PAIR_occ50,atv_sherp,,18.29,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001278.jpg,S3_PAIR_occ50,atv_sherp,,18.05,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001284.jpg,S3_PAIR_occ50,atv_sherp,,18.46,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001290.jpg,S3_PAIR_occ50,atv_sherp,,15.46,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001296.jpg,S3_PAIR_occ50,atv_sherp,,15.79,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001302.jpg,S3_PAIR_occ50,atv_sherp,,17.58,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001308.jpg,S3_PAIR_occ50,atv_sherp,,17.97,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001314.jpg,S3_PAIR_occ50,atv_sherp,,18.52,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001320.jpg,S3_PAIR_occ50,atv_sherp,,14.30,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001326.jpg,S3_PAIR_occ50,atv_sherp,,14.09,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001332.jpg,S3_PAIR_occ50,atv_sherp,,16.13,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001338.jpg,S3_PAIR_occ50,atv_sherp,,17.27,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001344.jpg,S3_PAIR_occ50,atv_sherp,,17.98,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001350.jpg,S3_PAIR_occ50,atv_sherp,,18.62,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001356.jpg,S3_PAIR_occ50,atv_sherp,,18.06,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001362.jpg,S3_PAIR_occ50,atv_sherp,,17.61,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001368.jpg,S3_PAIR_occ50,atv_sherp,,17.41,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001374.jpg,S3_PAIR_occ50,atv_sherp,,17.73,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001380.jpg,S3_PAIR_occ50,atv_sherp,,17.97,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001386.jpg,S3_PAIR_occ50,atv_sherp,,18.18,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001392.jpg,S3_PAIR_occ50,atv_sherp,,18.32,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001398.jpg,S3_PAIR_occ50,atv_sherp,,18.33,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001404.jpg,S3_PAIR_occ50,atv_sherp,,18.10,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001410.jpg,S3_PAIR_occ50,atv_sherp,,17.77,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001416.jpg,S3_PAIR_occ50,atv_sherp,,17.51,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001422.jpg,S3_PAIR_occ50,atv_sherp,,17.17,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001428.jpg,S3_PAIR_occ50,atv_sherp,,17.01,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001434.jpg,S3_PAIR_occ50,atv_sherp,,16.81,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001440.jpg,S3_PAIR_occ50,atv_sherp,,16.71,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001446.jpg,S3_PAIR_occ50,atv_sherp,,16.62,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001452.jpg,S3_PAIR_occ50,atv_sherp,,16.77,-172.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001458.jpg,S3_PAIR_occ50,atv_sherp,,16.93,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001464.jpg,S3_PAIR_occ50,atv_sherp,,16.96,-172.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001470.jpg,S3_PAIR_occ50,atv_sherp,,17.05,-172.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001476.jpg,S3_PAIR_occ50,atv_sherp,,16.60,-172.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001482.jpg,S3_PAIR_occ50,atv_sherp,,16.49,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001488.jpg,S3_PAIR_occ50,atv_sherp,,16.19,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001494.jpg,S3_PAIR_occ50,atv_sherp,,15.86,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001500.jpg,S3_PAIR_occ50,atv_sherp,,15.79,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001506.jpg,S3_PAIR_occ50,atv_sherp,,16.15,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001512.jpg,S3_PAIR_occ50,atv_sherp,,16.11,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001518.jpg,S3_PAIR_occ50,atv_sherp,,14.12,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001524.jpg,S3_PAIR_occ50,atv_sherp,0.0000,11.71,-173.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f001530.jpg,S3_PAIR_occ50,atv_sherp,0.0000,13.05,-173.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ50_f001536.jpg,S3_PAIR_occ50,atv_sherp,,16.50,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001542.jpg,S3_PAIR_occ50,atv_sherp,,19.63,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001548.jpg,S3_PAIR_occ50,atv_sherp,,20.55,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001554.jpg,S3_PAIR_occ50,atv_sherp,,21.85,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001560.jpg,S3_PAIR_occ50,atv_sherp,,20.86,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001566.jpg,S3_PAIR_occ50,atv_sherp,,22.50,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001572.jpg,S3_PAIR_occ50,atv_sherp,,22.86,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001578.jpg,S3_PAIR_occ50,atv_sherp,,22.08,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001584.jpg,S3_PAIR_occ50,atv_sherp,,21.37,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001590.jpg,S3_PAIR_occ50,atv_sherp,,20.92,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001596.jpg,S3_PAIR_occ50,atv_sherp,,20.16,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001602.jpg,S3_PAIR_occ50,atv_sherp,,19.45,-172.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001608.jpg,S3_PAIR_occ50,atv_sherp,,19.22,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001614.jpg,S3_PAIR_occ50,atv_sherp,,19.07,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001620.jpg,S3_PAIR_occ50,atv_sherp,,18.98,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001626.jpg,S3_PAIR_occ50,atv_sherp,,18.94,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001632.jpg,S3_PAIR_occ50,atv_sherp,,18.90,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001638.jpg,S3_PAIR_occ50,atv_sherp,,18.88,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001644.jpg,S3_PAIR_occ50,atv_sherp,,18.89,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ50_f001650.jpg,S3_PAIR_occ50,atv_sherp,,18.87,-173.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000000.jpg,S3_PAIR_occ75,atv_sherp,,29.30,-7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000006.jpg,S3_PAIR_occ75,atv_sherp,,24.57,-7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000012.jpg,S3_PAIR_occ75,atv_sherp,,24.74,-7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000018.jpg,S3_PAIR_occ75,atv_sherp,,24.85,-7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000024.jpg,S3_PAIR_occ75,atv_sherp,,24.90,-7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000030.jpg,S3_PAIR_occ75,atv_sherp,,17.37,-7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000036.jpg,S3_PAIR_occ75,atv_sherp,,17.38,-7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000042.jpg,S3_PAIR_occ75,atv_sherp,,17.36,-7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000048.jpg,S3_PAIR_occ75,atv_sherp,,17.34,-7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000054.jpg,S3_PAIR_occ75,atv_sherp,,17.35,-7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000060.jpg,S3_PAIR_occ75,atv_sherp,,17.28,-7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000066.jpg,S3_PAIR_occ75,atv_sherp,,17.28,-7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000072.jpg,S3_PAIR_occ75,atv_sherp,,17.20,-7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000078.jpg,S3_PAIR_occ75,atv_sherp,,17.28,-7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000084.jpg,S3_PAIR_occ75,atv_sherp,,17.32,-7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000090.jpg,S3_PAIR_occ75,atv_sherp,0.4526,9.02,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000096.jpg,S3_PAIR_occ75,atv_sherp,0.5555,9.03,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000102.jpg,S3_PAIR_occ75,atv_sherp,0.6433,8.96,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000108.jpg,S3_PAIR_occ75,atv_sherp,0.2483,8.94,-7.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ75_f000114.jpg,S3_PAIR_occ75,atv_sherp,0.6185,8.96,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000120.jpg,S3_PAIR_occ75,atv_sherp,0.6051,8.95,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000126.jpg,S3_PAIR_occ75,atv_sherp,0.5567,8.98,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000132.jpg,S3_PAIR_occ75,atv_sherp,0.3097,9.04,-7.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ75_f000138.jpg,S3_PAIR_occ75,atv_sherp,0.4684,8.96,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000144.jpg,S3_PAIR_occ75,atv_sherp,0.5558,9.07,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000150.jpg,S3_PAIR_occ75,atv_sherp,0.5464,9.22,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000156.jpg,S3_PAIR_occ75,atv_sherp,0.4839,9.28,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000162.jpg,S3_PAIR_occ75,atv_sherp,0.7661,9.04,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000168.jpg,S3_PAIR_occ75,atv_sherp,0.7890,8.56,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000174.jpg,S3_PAIR_occ75,atv_sherp,0.8010,8.30,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000180.jpg,S3_PAIR_occ75,atv_sherp,0.7170,8.33,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000186.jpg,S3_PAIR_occ75,atv_sherp,0.8397,8.44,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000192.jpg,S3_PAIR_occ75,atv_sherp,0.7941,8.47,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000198.jpg,S3_PAIR_occ75,atv_sherp,0.5196,8.31,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000204.jpg,S3_PAIR_occ75,atv_sherp,0.7743,8.37,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000210.jpg,S3_PAIR_occ75,atv_sherp,0.6362,8.44,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000216.jpg,S3_PAIR_occ75,atv_sherp,0.6665,8.47,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000222.jpg,S3_PAIR_occ75,atv_sherp,0.5785,8.28,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000228.jpg,S3_PAIR_occ75,atv_sherp,0.7504,8.22,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000234.jpg,S3_PAIR_occ75,atv_sherp,0.7127,8.28,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000240.jpg,S3_PAIR_occ75,atv_sherp,0.7327,8.22,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000246.jpg,S3_PAIR_occ75,atv_sherp,0.8085,8.31,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000252.jpg,S3_PAIR_occ75,atv_sherp,0.5666,8.46,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000258.jpg,S3_PAIR_occ75,atv_sherp,0.7812,8.60,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000264.jpg,S3_PAIR_occ75,atv_sherp,0.7663,8.65,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000270.jpg,S3_PAIR_occ75,atv_sherp,0.6635,8.59,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000276.jpg,S3_PAIR_occ75,atv_sherp,0.7522,8.62,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000282.jpg,S3_PAIR_occ75,atv_sherp,0.7808,8.73,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000288.jpg,S3_PAIR_occ75,atv_sherp,0.8163,8.90,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000294.jpg,S3_PAIR_occ75,atv_sherp,0.7772,8.91,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000300.jpg,S3_PAIR_occ75,atv_sherp,0.8271,8.58,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000306.jpg,S3_PAIR_occ75,atv_sherp,0.8356,8.62,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000312.jpg,S3_PAIR_occ75,atv_sherp,0.8492,8.62,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000318.jpg,S3_PAIR_occ75,atv_sherp,0.8295,8.64,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000324.jpg,S3_PAIR_occ75,atv_sherp,0.7748,8.65,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000330.jpg,S3_PAIR_occ75,atv_sherp,0.7217,8.67,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000336.jpg,S3_PAIR_occ75,atv_sherp,0.8348,8.74,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000342.jpg,S3_PAIR_occ75,atv_sherp,0.6362,8.73,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000348.jpg,S3_PAIR_occ75,atv_sherp,0.8549,8.74,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000354.jpg,S3_PAIR_occ75,atv_sherp,0.8489,8.76,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000360.jpg,S3_PAIR_occ75,atv_sherp,0.8325,8.82,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000366.jpg,S3_PAIR_occ75,atv_sherp,0.7751,9.00,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000372.jpg,S3_PAIR_occ75,atv_sherp,0.8366,9.00,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000378.jpg,S3_PAIR_occ75,atv_sherp,0.8214,8.94,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000384.jpg,S3_PAIR_occ75,atv_sherp,0.7734,8.93,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000390.jpg,S3_PAIR_occ75,atv_sherp,0.5452,8.88,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000396.jpg,S3_PAIR_occ75,atv_sherp,0.8690,8.87,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000402.jpg,S3_PAIR_occ75,atv_sherp,0.8247,8.81,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000408.jpg,S3_PAIR_occ75,atv_sherp,0.5033,8.82,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000414.jpg,S3_PAIR_occ75,atv_sherp,0.6839,8.84,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000420.jpg,S3_PAIR_occ75,atv_sherp,0.8127,8.89,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000426.jpg,S3_PAIR_occ75,atv_sherp,0.6688,8.87,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000432.jpg,S3_PAIR_occ75,atv_sherp,0.7307,8.92,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000438.jpg,S3_PAIR_occ75,atv_sherp,0.6487,8.90,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000444.jpg,S3_PAIR_occ75,atv_sherp,0.6086,8.87,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000450.jpg,S3_PAIR_occ75,atv_sherp,0.8274,8.87,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000456.jpg,S3_PAIR_occ75,atv_sherp,0.8194,8.88,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000462.jpg,S3_PAIR_occ75,atv_sherp,0.7663,8.79,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000468.jpg,S3_PAIR_occ75,atv_sherp,0.8357,8.87,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000474.jpg,S3_PAIR_occ75,atv_sherp,0.8241,8.91,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000480.jpg,S3_PAIR_occ75,atv_sherp,0.8490,8.90,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000486.jpg,S3_PAIR_occ75,atv_sherp,0.8173,8.82,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000492.jpg,S3_PAIR_occ75,atv_sherp,0.8355,8.76,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000498.jpg,S3_PAIR_occ75,atv_sherp,0.8254,8.66,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000504.jpg,S3_PAIR_occ75,atv_sherp,0.8061,8.62,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000510.jpg,S3_PAIR_occ75,atv_sherp,0.8060,8.69,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000516.jpg,S3_PAIR_occ75,atv_sherp,0.8042,8.73,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000522.jpg,S3_PAIR_occ75,atv_sherp,0.8224,8.76,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000528.jpg,S3_PAIR_occ75,atv_sherp,0.8215,8.80,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000534.jpg,S3_PAIR_occ75,atv_sherp,0.8072,8.84,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000540.jpg,S3_PAIR_occ75,atv_sherp,0.8257,8.85,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000546.jpg,S3_PAIR_occ75,atv_sherp,0.8406,8.96,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000552.jpg,S3_PAIR_occ75,atv_sherp,0.8181,8.99,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000558.jpg,S3_PAIR_occ75,atv_sherp,0.7630,9.06,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000564.jpg,S3_PAIR_occ75,atv_sherp,0.7949,8.89,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000570.jpg,S3_PAIR_occ75,atv_sherp,0.7956,8.81,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000576.jpg,S3_PAIR_occ75,atv_sherp,0.8255,8.75,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000582.jpg,S3_PAIR_occ75,atv_sherp,0.7445,8.79,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000588.jpg,S3_PAIR_occ75,atv_sherp,0.8502,9.79,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000594.jpg,S3_PAIR_occ75,atv_sherp,0.5346,10.44,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000600.jpg,S3_PAIR_occ75,atv_sherp,0.6878,10.84,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000606.jpg,S3_PAIR_occ75,atv_sherp,0.4254,12.19,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000612.jpg,S3_PAIR_occ75,atv_sherp,0.3949,12.95,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000618.jpg,S3_PAIR_occ75,atv_sherp,0.4952,13.30,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000624.jpg,S3_PAIR_occ75,atv_sherp,0.5410,13.68,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000630.jpg,S3_PAIR_occ75,atv_sherp,0.5511,13.94,-7.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000636.jpg,S3_PAIR_occ75,atv_sherp,,14.04,3.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000642.jpg,S3_PAIR_occ75,atv_sherp,0.4607,12.16,4.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000648.jpg,S3_PAIR_occ75,atv_sherp,0.5340,12.56,4.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000654.jpg,S3_PAIR_occ75,atv_sherp,0.4807,12.30,4.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000660.jpg,S3_PAIR_occ75,atv_sherp,0.5006,12.19,4.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000666.jpg,S3_PAIR_occ75,atv_sherp,0.4845,12.11,4.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000672.jpg,S3_PAIR_occ75,atv_sherp,0.5532,12.76,4.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000678.jpg,S3_PAIR_occ75,atv_sherp,,14.48,4.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000684.jpg,S3_PAIR_occ75,atv_sherp,,15.82,4.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000690.jpg,S3_PAIR_occ75,atv_sherp,,16.24,4.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000696.jpg,S3_PAIR_occ75,atv_sherp,,16.21,4.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000702.jpg,S3_PAIR_occ75,atv_sherp,,16.45,4.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000708.jpg,S3_PAIR_occ75,atv_sherp,,16.58,4.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000714.jpg,S3_PAIR_occ75,atv_sherp,,17.24,4.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000720.jpg,S3_PAIR_occ75,atv_sherp,,16.77,7.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000726.jpg,S3_PAIR_occ75,atv_sherp,,14.69,15.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000732.jpg,S3_PAIR_occ75,atv_sherp,0.6094,13.46,18.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000738.jpg,S3_PAIR_occ75,atv_sherp,0.7469,13.48,18.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000744.jpg,S3_PAIR_occ75,atv_sherp,0.6742,13.70,19.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000750.jpg,S3_PAIR_occ75,atv_sherp,,14.06,18.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000756.jpg,S3_PAIR_occ75,atv_sherp,,15.36,18.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000762.jpg,S3_PAIR_occ75,atv_sherp,,14.65,21.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000768.jpg,S3_PAIR_occ75,atv_sherp,,14.56,21.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000774.jpg,S3_PAIR_occ75,atv_sherp,,14.42,28.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000798.jpg,S3_PAIR_occ75,atv_sherp,0.5678,10.79,28.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000804.jpg,S3_PAIR_occ75,atv_sherp,0.4364,10.62,28.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000810.jpg,S3_PAIR_occ75,atv_sherp,,14.82,35.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000816.jpg,S3_PAIR_occ75,atv_sherp,0.4691,12.97,40.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000822.jpg,S3_PAIR_occ75,atv_sherp,0.4238,12.89,40.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000828.jpg,S3_PAIR_occ75,atv_sherp,0.5217,12.48,40.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000834.jpg,S3_PAIR_occ75,atv_sherp,0.4936,12.51,40.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000840.jpg,S3_PAIR_occ75,atv_sherp,0.5347,12.93,40.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000858.jpg,S3_PAIR_occ75,atv_sherp,0.4803,13.92,41.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000864.jpg,S3_PAIR_occ75,atv_sherp,0.0000,11.58,53.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ75_f000870.jpg,S3_PAIR_occ75,atv_sherp,0.0000,11.71,53.0,LIGHT,"frontal, below the confident floor - light occlusion"
+S3_PAIR_occ75_f000876.jpg,S3_PAIR_occ75,atv_sherp,,14.85,53.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000882.jpg,S3_PAIR_occ75,atv_sherp,,14.96,53.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000888.jpg,S3_PAIR_occ75,atv_sherp,0.3902,13.34,53.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000894.jpg,S3_PAIR_occ75,atv_sherp,0.4692,13.22,53.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000900.jpg,S3_PAIR_occ75,atv_sherp,0.4409,12.93,54.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f000906.jpg,S3_PAIR_occ75,atv_sherp,,14.50,58.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000912.jpg,S3_PAIR_occ75,atv_sherp,,14.12,66.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000918.jpg,S3_PAIR_occ75,atv_sherp,,14.18,66.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000924.jpg,S3_PAIR_occ75,atv_sherp,,14.05,66.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000930.jpg,S3_PAIR_occ75,atv_sherp,,13.81,66.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ75_f000936.jpg,S3_PAIR_occ75,atv_sherp,,13.76,66.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ75_f000942.jpg,S3_PAIR_occ75,atv_sherp,,13.64,66.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ75_f000948.jpg,S3_PAIR_occ75,atv_sherp,,13.47,66.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ75_f000954.jpg,S3_PAIR_occ75,atv_sherp,,13.27,66.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ75_f000960.jpg,S3_PAIR_occ75,atv_sherp,,13.01,66.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ75_f000966.jpg,S3_PAIR_occ75,atv_sherp,,13.32,66.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ75_f000972.jpg,S3_PAIR_occ75,atv_sherp,,13.62,66.0,AMBIGUOUS,target absent from one side
+S3_PAIR_occ75_f000978.jpg,S3_PAIR_occ75,atv_sherp,,14.44,66.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000984.jpg,S3_PAIR_occ75,atv_sherp,,14.25,66.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000990.jpg,S3_PAIR_occ75,atv_sherp,,14.46,66.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f000996.jpg,S3_PAIR_occ75,atv_sherp,,14.29,66.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001002.jpg,S3_PAIR_occ75,atv_sherp,,16.20,70.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001008.jpg,S3_PAIR_occ75,atv_sherp,,14.71,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001014.jpg,S3_PAIR_occ75,atv_sherp,,14.60,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001020.jpg,S3_PAIR_occ75,atv_sherp,,14.37,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001026.jpg,S3_PAIR_occ75,atv_sherp,,14.11,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001032.jpg,S3_PAIR_occ75,atv_sherp,,14.58,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001038.jpg,S3_PAIR_occ75,atv_sherp,,14.52,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001044.jpg,S3_PAIR_occ75,atv_sherp,,14.76,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001050.jpg,S3_PAIR_occ75,atv_sherp,,15.41,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001056.jpg,S3_PAIR_occ75,atv_sherp,,15.35,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001062.jpg,S3_PAIR_occ75,atv_sherp,,15.41,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001068.jpg,S3_PAIR_occ75,atv_sherp,,15.46,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001074.jpg,S3_PAIR_occ75,atv_sherp,,15.77,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001080.jpg,S3_PAIR_occ75,atv_sherp,,15.95,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001086.jpg,S3_PAIR_occ75,atv_sherp,,15.91,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001092.jpg,S3_PAIR_occ75,atv_sherp,,16.35,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001098.jpg,S3_PAIR_occ75,atv_sherp,,16.48,73.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001104.jpg,S3_PAIR_occ75,atv_sherp,,16.46,73.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001110.jpg,S3_PAIR_occ75,atv_sherp,,16.39,73.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001116.jpg,S3_PAIR_occ75,atv_sherp,,16.42,73.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001122.jpg,S3_PAIR_occ75,atv_sherp,,16.29,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001128.jpg,S3_PAIR_occ75,atv_sherp,,16.19,74.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001134.jpg,S3_PAIR_occ75,atv_sherp,0.0000,6.90,77.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001140.jpg,S3_PAIR_occ75,atv_sherp,0.3798,11.36,84.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f001146.jpg,S3_PAIR_occ75,atv_sherp,0.2927,11.92,84.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ75_f001152.jpg,S3_PAIR_occ75,atv_sherp,0.2786,12.20,84.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ75_f001158.jpg,S3_PAIR_occ75,atv_sherp,0.3228,12.33,84.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f001164.jpg,S3_PAIR_occ75,atv_sherp,0.3827,12.54,84.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f001170.jpg,S3_PAIR_occ75,atv_sherp,0.3369,12.61,84.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f001176.jpg,S3_PAIR_occ75,atv_sherp,0.1116,12.53,84.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001182.jpg,S3_PAIR_occ75,atv_sherp,0.1559,12.32,84.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ75_f001188.jpg,S3_PAIR_occ75,atv_sherp,0.2205,12.24,84.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ75_f001194.jpg,S3_PAIR_occ75,atv_sherp,0.0000,12.27,84.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001200.jpg,S3_PAIR_occ75,atv_sherp,0.1466,12.20,84.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ75_f001206.jpg,S3_PAIR_occ75,atv_sherp,0.3314,13.26,84.0,OCCLUDED,above floor p75
+S3_PAIR_occ75_f001212.jpg,S3_PAIR_occ75,atv_sherp,0.0855,11.57,84.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001218.jpg,S3_PAIR_occ75,atv_sherp,0.1142,10.62,84.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001224.jpg,S3_PAIR_occ75,atv_sherp,0.0075,9.72,84.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001230.jpg,S3_PAIR_occ75,atv_sherp,0.0000,8.47,84.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001236.jpg,S3_PAIR_occ75,atv_sherp,0.0877,8.80,84.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001242.jpg,S3_PAIR_occ75,atv_sherp,0.0133,8.59,84.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001248.jpg,S3_PAIR_occ75,atv_sherp,0.0000,7.54,84.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001254.jpg,S3_PAIR_occ75,atv_sherp,0.0000,6.78,84.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001260.jpg,S3_PAIR_occ75,atv_sherp,0.0000,7.96,84.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001266.jpg,S3_PAIR_occ75,atv_sherp,0.0000,9.48,84.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001272.jpg,S3_PAIR_occ75,atv_sherp,0.0000,7.13,85.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001278.jpg,S3_PAIR_occ75,atv_sherp,0.0000,10.64,90.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001284.jpg,S3_PAIR_occ75,atv_sherp,0.0000,6.98,100.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001290.jpg,S3_PAIR_occ75,atv_sherp,0.0000,11.96,102.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001296.jpg,S3_PAIR_occ75,atv_sherp,,17.20,103.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001302.jpg,S3_PAIR_occ75,atv_sherp,,16.86,103.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001308.jpg,S3_PAIR_occ75,atv_sherp,,16.44,103.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001314.jpg,S3_PAIR_occ75,atv_sherp,,15.21,103.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001320.jpg,S3_PAIR_occ75,atv_sherp,,14.67,103.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001326.jpg,S3_PAIR_occ75,atv_sherp,,14.54,103.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001332.jpg,S3_PAIR_occ75,atv_sherp,,14.62,103.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001338.jpg,S3_PAIR_occ75,atv_sherp,,14.64,103.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001344.jpg,S3_PAIR_occ75,atv_sherp,,14.50,104.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001350.jpg,S3_PAIR_occ75,atv_sherp,,15.35,111.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001356.jpg,S3_PAIR_occ75,atv_sherp,0.0000,12.01,112.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001362.jpg,S3_PAIR_occ75,atv_sherp,0.0000,12.21,112.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001368.jpg,S3_PAIR_occ75,atv_sherp,0.0000,12.02,112.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001374.jpg,S3_PAIR_occ75,atv_sherp,0.0000,9.83,112.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001380.jpg,S3_PAIR_occ75,atv_sherp,0.0000,10.88,112.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001386.jpg,S3_PAIR_occ75,atv_sherp,0.0000,12.24,112.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001392.jpg,S3_PAIR_occ75,atv_sherp,0.0000,12.28,112.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001398.jpg,S3_PAIR_occ75,atv_sherp,0.0733,12.62,112.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001404.jpg,S3_PAIR_occ75,atv_sherp,0.0000,12.81,112.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001410.jpg,S3_PAIR_occ75,atv_sherp,0.0596,11.32,114.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001416.jpg,S3_PAIR_occ75,atv_sherp,,16.13,121.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001422.jpg,S3_PAIR_occ75,atv_sherp,,17.04,129.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001428.jpg,S3_PAIR_occ75,atv_sherp,,16.77,129.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001434.jpg,S3_PAIR_occ75,atv_sherp,,16.57,129.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001440.jpg,S3_PAIR_occ75,atv_sherp,,15.62,129.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001446.jpg,S3_PAIR_occ75,atv_sherp,,15.00,129.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001452.jpg,S3_PAIR_occ75,atv_sherp,,17.12,129.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001458.jpg,S3_PAIR_occ75,atv_sherp,,17.65,129.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001464.jpg,S3_PAIR_occ75,atv_sherp,,17.50,129.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001470.jpg,S3_PAIR_occ75,atv_sherp,,17.50,129.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001476.jpg,S3_PAIR_occ75,atv_sherp,,17.71,135.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001482.jpg,S3_PAIR_occ75,atv_sherp,0.3079,12.13,142.0,BYPASSED,"outside frontal sector, reading within noise"
+S3_PAIR_occ75_f001488.jpg,S3_PAIR_occ75,atv_sherp,0.0284,13.12,152.0,BYPASSED,outside frontal sector - far side of the strip
+S3_PAIR_occ75_f001494.jpg,S3_PAIR_occ75,atv_sherp,,18.91,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001500.jpg,S3_PAIR_occ75,atv_sherp,,18.33,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001506.jpg,S3_PAIR_occ75,atv_sherp,,18.09,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001512.jpg,S3_PAIR_occ75,atv_sherp,,18.04,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001518.jpg,S3_PAIR_occ75,atv_sherp,,17.99,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001524.jpg,S3_PAIR_occ75,atv_sherp,,17.74,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001530.jpg,S3_PAIR_occ75,atv_sherp,,18.22,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001536.jpg,S3_PAIR_occ75,atv_sherp,,20.09,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001542.jpg,S3_PAIR_occ75,atv_sherp,,20.96,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001548.jpg,S3_PAIR_occ75,atv_sherp,,19.61,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001554.jpg,S3_PAIR_occ75,atv_sherp,,17.87,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001560.jpg,S3_PAIR_occ75,atv_sherp,,17.11,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001566.jpg,S3_PAIR_occ75,atv_sherp,,16.44,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001572.jpg,S3_PAIR_occ75,atv_sherp,,16.43,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001578.jpg,S3_PAIR_occ75,atv_sherp,,16.58,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001584.jpg,S3_PAIR_occ75,atv_sherp,,17.01,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001590.jpg,S3_PAIR_occ75,atv_sherp,,18.33,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001596.jpg,S3_PAIR_occ75,atv_sherp,,18.50,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001602.jpg,S3_PAIR_occ75,atv_sherp,,18.38,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001608.jpg,S3_PAIR_occ75,atv_sherp,,18.29,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001614.jpg,S3_PAIR_occ75,atv_sherp,,18.16,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001620.jpg,S3_PAIR_occ75,atv_sherp,,18.23,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001626.jpg,S3_PAIR_occ75,atv_sherp,,18.32,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001632.jpg,S3_PAIR_occ75,atv_sherp,,18.23,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001638.jpg,S3_PAIR_occ75,atv_sherp,,18.11,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001644.jpg,S3_PAIR_occ75,atv_sherp,,17.69,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001650.jpg,S3_PAIR_occ75,atv_sherp,,17.31,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001656.jpg,S3_PAIR_occ75,atv_sherp,,16.88,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001662.jpg,S3_PAIR_occ75,atv_sherp,,16.38,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001668.jpg,S3_PAIR_occ75,atv_sherp,,16.01,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001674.jpg,S3_PAIR_occ75,atv_sherp,,15.82,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001680.jpg,S3_PAIR_occ75,atv_sherp,,15.75,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001686.jpg,S3_PAIR_occ75,atv_sherp,,15.87,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001692.jpg,S3_PAIR_occ75,atv_sherp,,16.13,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001698.jpg,S3_PAIR_occ75,atv_sherp,,16.43,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001704.jpg,S3_PAIR_occ75,atv_sherp,,16.99,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001710.jpg,S3_PAIR_occ75,atv_sherp,,17.23,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001716.jpg,S3_PAIR_occ75,atv_sherp,,18.35,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001722.jpg,S3_PAIR_occ75,atv_sherp,,19.28,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001728.jpg,S3_PAIR_occ75,atv_sherp,,17.53,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001734.jpg,S3_PAIR_occ75,atv_sherp,,17.97,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001740.jpg,S3_PAIR_occ75,atv_sherp,,18.43,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001746.jpg,S3_PAIR_occ75,atv_sherp,,18.73,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001752.jpg,S3_PAIR_occ75,atv_sherp,,18.85,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001758.jpg,S3_PAIR_occ75,atv_sherp,,18.72,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001764.jpg,S3_PAIR_occ75,atv_sherp,,19.20,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001770.jpg,S3_PAIR_occ75,atv_sherp,,19.58,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001776.jpg,S3_PAIR_occ75,atv_sherp,,19.42,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001782.jpg,S3_PAIR_occ75,atv_sherp,,19.70,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001788.jpg,S3_PAIR_occ75,atv_sherp,,19.74,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001794.jpg,S3_PAIR_occ75,atv_sherp,,19.62,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001800.jpg,S3_PAIR_occ75,atv_sherp,,19.75,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001806.jpg,S3_PAIR_occ75,atv_sherp,,20.10,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001812.jpg,S3_PAIR_occ75,atv_sherp,,20.25,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001818.jpg,S3_PAIR_occ75,atv_sherp,,20.07,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001824.jpg,S3_PAIR_occ75,atv_sherp,,20.36,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001830.jpg,S3_PAIR_occ75,atv_sherp,,21.21,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001836.jpg,S3_PAIR_occ75,atv_sherp,,21.37,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001842.jpg,S3_PAIR_occ75,atv_sherp,,21.32,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001848.jpg,S3_PAIR_occ75,atv_sherp,,21.41,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001854.jpg,S3_PAIR_occ75,atv_sherp,,21.48,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001860.jpg,S3_PAIR_occ75,atv_sherp,,21.38,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001866.jpg,S3_PAIR_occ75,atv_sherp,,21.56,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001872.jpg,S3_PAIR_occ75,atv_sherp,,21.58,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001878.jpg,S3_PAIR_occ75,atv_sherp,,22.87,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001884.jpg,S3_PAIR_occ75,atv_sherp,,22.91,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001890.jpg,S3_PAIR_occ75,atv_sherp,,22.47,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001896.jpg,S3_PAIR_occ75,atv_sherp,,20.66,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001902.jpg,S3_PAIR_occ75,atv_sherp,,20.30,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001908.jpg,S3_PAIR_occ75,atv_sherp,,20.51,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001914.jpg,S3_PAIR_occ75,atv_sherp,,20.06,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001920.jpg,S3_PAIR_occ75,atv_sherp,,19.41,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001926.jpg,S3_PAIR_occ75,atv_sherp,,19.59,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001932.jpg,S3_PAIR_occ75,atv_sherp,,19.78,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001938.jpg,S3_PAIR_occ75,atv_sherp,,19.77,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001944.jpg,S3_PAIR_occ75,atv_sherp,,19.64,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001950.jpg,S3_PAIR_occ75,atv_sherp,,19.52,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001956.jpg,S3_PAIR_occ75,atv_sherp,,19.52,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001962.jpg,S3_PAIR_occ75,atv_sherp,,19.42,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001968.jpg,S3_PAIR_occ75,atv_sherp,,19.32,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001974.jpg,S3_PAIR_occ75,atv_sherp,,19.07,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001980.jpg,S3_PAIR_occ75,atv_sherp,,18.34,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001986.jpg,S3_PAIR_occ75,atv_sherp,,18.28,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001992.jpg,S3_PAIR_occ75,atv_sherp,,18.38,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f001998.jpg,S3_PAIR_occ75,atv_sherp,,18.19,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f002004.jpg,S3_PAIR_occ75,atv_sherp,,17.75,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f002010.jpg,S3_PAIR_occ75,atv_sherp,,17.49,160.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f002016.jpg,S3_PAIR_occ75,atv_sherp,,17.38,157.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f002022.jpg,S3_PAIR_occ75,atv_sherp,,20.29,155.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_occ75_f002028.jpg,S3_PAIR_occ75,atv_sherp,,20.24,155.0,AMBIGUOUS,no viewpoint-matched clean frame
+S3_PAIR_clean_f000000.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000006.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000012.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000018.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000024.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000030.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000036.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000042.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000048.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000054.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000060.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000066.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000072.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000078.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000084.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000090.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000096.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000102.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000108.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000114.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000120.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000126.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000132.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000138.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000144.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000150.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000156.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000162.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000168.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000174.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000180.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000186.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000192.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000198.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000204.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000210.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000216.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000222.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000228.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000234.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000240.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000246.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000252.jpg,S3_PAIR_clean,atv_sherp,,,0.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000258.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000264.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000270.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000276.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000282.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000288.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000294.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000300.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000306.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000312.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000318.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000324.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000330.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000336.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000342.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000348.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000354.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000360.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000366.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000372.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000378.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000384.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000390.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000396.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000402.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000408.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000414.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000420.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000426.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000432.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000438.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000444.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000450.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000456.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000462.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000468.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000474.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000480.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000486.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000492.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000498.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000504.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000510.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000516.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000522.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000528.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000534.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000540.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000546.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000552.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000558.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000564.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000570.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000576.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000582.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000588.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000594.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000600.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000606.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000612.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000618.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000624.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000630.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000636.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000642.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000648.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000654.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000660.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000666.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000672.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000678.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000684.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000690.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000696.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000702.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000708.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000714.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000720.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000726.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000732.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000738.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000744.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000750.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000756.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000762.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000768.jpg,S3_PAIR_clean,atv_sherp,,,-1.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000774.jpg,S3_PAIR_clean,atv_sherp,,,2.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000780.jpg,S3_PAIR_clean,atv_sherp,,,3.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000786.jpg,S3_PAIR_clean,atv_sherp,,,3.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000792.jpg,S3_PAIR_clean,atv_sherp,,,3.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000798.jpg,S3_PAIR_clean,atv_sherp,,,4.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000804.jpg,S3_PAIR_clean,atv_sherp,,,4.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000810.jpg,S3_PAIR_clean,atv_sherp,,,4.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000816.jpg,S3_PAIR_clean,atv_sherp,,,4.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000822.jpg,S3_PAIR_clean,atv_sherp,,,4.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000828.jpg,S3_PAIR_clean,atv_sherp,,,4.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000834.jpg,S3_PAIR_clean,atv_sherp,,,4.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000840.jpg,S3_PAIR_clean,atv_sherp,,,9.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000846.jpg,S3_PAIR_clean,atv_sherp,,,12.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000852.jpg,S3_PAIR_clean,atv_sherp,,,15.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000858.jpg,S3_PAIR_clean,atv_sherp,,,15.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000864.jpg,S3_PAIR_clean,atv_sherp,,,15.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000870.jpg,S3_PAIR_clean,atv_sherp,,,15.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000876.jpg,S3_PAIR_clean,atv_sherp,,,15.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000882.jpg,S3_PAIR_clean,atv_sherp,,,15.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000888.jpg,S3_PAIR_clean,atv_sherp,,,15.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000894.jpg,S3_PAIR_clean,atv_sherp,,,15.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000900.jpg,S3_PAIR_clean,atv_sherp,,,17.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000906.jpg,S3_PAIR_clean,atv_sherp,,,27.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000912.jpg,S3_PAIR_clean,atv_sherp,,,29.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000918.jpg,S3_PAIR_clean,atv_sherp,,,28.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000924.jpg,S3_PAIR_clean,atv_sherp,,,28.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000930.jpg,S3_PAIR_clean,atv_sherp,,,28.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000936.jpg,S3_PAIR_clean,atv_sherp,,,29.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000942.jpg,S3_PAIR_clean,atv_sherp,,,29.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000948.jpg,S3_PAIR_clean,atv_sherp,,,32.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000954.jpg,S3_PAIR_clean,atv_sherp,,,39.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000960.jpg,S3_PAIR_clean,atv_sherp,,,46.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000966.jpg,S3_PAIR_clean,atv_sherp,,,54.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000972.jpg,S3_PAIR_clean,atv_sherp,,,55.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000978.jpg,S3_PAIR_clean,atv_sherp,,,55.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000984.jpg,S3_PAIR_clean,atv_sherp,,,55.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000990.jpg,S3_PAIR_clean,atv_sherp,,,55.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f000996.jpg,S3_PAIR_clean,atv_sherp,,,55.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001002.jpg,S3_PAIR_clean,atv_sherp,,,55.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001008.jpg,S3_PAIR_clean,atv_sherp,,,55.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001014.jpg,S3_PAIR_clean,atv_sherp,,,55.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001020.jpg,S3_PAIR_clean,atv_sherp,,,66.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001026.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001032.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001038.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001044.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001050.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001056.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001062.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001068.jpg,S3_PAIR_clean,atv_sherp,,,70.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001074.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001080.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001086.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001092.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001098.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001104.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001110.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001116.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001122.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001128.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001134.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001140.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001146.jpg,S3_PAIR_clean,atv_sherp,,,70.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001152.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001158.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001164.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001170.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001176.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001182.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001188.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001194.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001200.jpg,S3_PAIR_clean,atv_sherp,,,71.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001206.jpg,S3_PAIR_clean,atv_sherp,,,57.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001212.jpg,S3_PAIR_clean,atv_sherp,,,41.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001218.jpg,S3_PAIR_clean,atv_sherp,,,38.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001224.jpg,S3_PAIR_clean,atv_sherp,,,37.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001230.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001236.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001242.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001248.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001254.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001260.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001266.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001272.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001278.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001284.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001290.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001296.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001302.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001308.jpg,S3_PAIR_clean,atv_sherp,,,35.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001314.jpg,S3_PAIR_clean,atv_sherp,,,35.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001320.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001326.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001332.jpg,S3_PAIR_clean,atv_sherp,,,42.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001338.jpg,S3_PAIR_clean,atv_sherp,,,48.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001344.jpg,S3_PAIR_clean,atv_sherp,,,53.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001350.jpg,S3_PAIR_clean,atv_sherp,,,55.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001356.jpg,S3_PAIR_clean,atv_sherp,,,57.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001362.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001368.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001374.jpg,S3_PAIR_clean,atv_sherp,,,59.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001380.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001386.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001392.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001398.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001404.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001410.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001416.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001422.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001428.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001434.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001440.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001446.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001452.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001458.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001464.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001470.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001476.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001482.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001488.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001494.jpg,S3_PAIR_clean,atv_sherp,,,59.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001500.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001506.jpg,S3_PAIR_clean,atv_sherp,,,60.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001512.jpg,S3_PAIR_clean,atv_sherp,,,59.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001518.jpg,S3_PAIR_clean,atv_sherp,,,54.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001524.jpg,S3_PAIR_clean,atv_sherp,,,47.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001530.jpg,S3_PAIR_clean,atv_sherp,,,46.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001536.jpg,S3_PAIR_clean,atv_sherp,,,41.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001542.jpg,S3_PAIR_clean,atv_sherp,,,34.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001548.jpg,S3_PAIR_clean,atv_sherp,,,36.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001554.jpg,S3_PAIR_clean,atv_sherp,,,47.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001560.jpg,S3_PAIR_clean,atv_sherp,,,54.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001566.jpg,S3_PAIR_clean,atv_sherp,,,64.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001572.jpg,S3_PAIR_clean,atv_sherp,,,74.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001578.jpg,S3_PAIR_clean,atv_sherp,,,84.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001584.jpg,S3_PAIR_clean,atv_sherp,,,85.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001590.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001596.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001602.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001608.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001614.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001620.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001626.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001632.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001638.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001644.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001650.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001656.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001662.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001668.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001674.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001680.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001686.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001692.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001698.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001704.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001710.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001716.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001722.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001728.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001734.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001740.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001746.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001752.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001758.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001764.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001770.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001776.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001782.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001788.jpg,S3_PAIR_clean,atv_sherp,,,86.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001794.jpg,S3_PAIR_clean,atv_sherp,,,87.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001800.jpg,S3_PAIR_clean,atv_sherp,,,92.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001806.jpg,S3_PAIR_clean,atv_sherp,,,99.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001812.jpg,S3_PAIR_clean,atv_sherp,,,106.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001818.jpg,S3_PAIR_clean,atv_sherp,,,113.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001824.jpg,S3_PAIR_clean,atv_sherp,,,118.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001830.jpg,S3_PAIR_clean,atv_sherp,,,119.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001836.jpg,S3_PAIR_clean,atv_sherp,,,119.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001842.jpg,S3_PAIR_clean,atv_sherp,,,119.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001848.jpg,S3_PAIR_clean,atv_sherp,,,119.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001854.jpg,S3_PAIR_clean,atv_sherp,,,119.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001860.jpg,S3_PAIR_clean,atv_sherp,,,119.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001866.jpg,S3_PAIR_clean,atv_sherp,,,125.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001872.jpg,S3_PAIR_clean,atv_sherp,,,134.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001878.jpg,S3_PAIR_clean,atv_sherp,,,140.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001884.jpg,S3_PAIR_clean,atv_sherp,,,147.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001890.jpg,S3_PAIR_clean,atv_sherp,,,148.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001896.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001902.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001908.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001914.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001920.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001926.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001932.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001938.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001944.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001950.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001956.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001962.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001968.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001974.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001980.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001986.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001992.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f001998.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002004.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002010.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002016.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002022.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002028.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002034.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002040.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002046.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002052.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002058.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002064.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002070.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002076.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002082.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002088.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002094.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002100.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002106.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002112.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002118.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002124.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002130.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002136.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002142.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002148.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002154.jpg,S3_PAIR_clean,atv_sherp,,,150.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002160.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002166.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002172.jpg,S3_PAIR_clean,atv_sherp,,,149.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002178.jpg,S3_PAIR_clean,atv_sherp,,,155.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002184.jpg,S3_PAIR_clean,atv_sherp,,,157.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002190.jpg,S3_PAIR_clean,atv_sherp,,,157.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002196.jpg,S3_PAIR_clean,atv_sherp,,,157.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002202.jpg,S3_PAIR_clean,atv_sherp,,,157.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002208.jpg,S3_PAIR_clean,atv_sherp,,,158.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002214.jpg,S3_PAIR_clean,atv_sherp,,,158.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002220.jpg,S3_PAIR_clean,atv_sherp,,,158.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002226.jpg,S3_PAIR_clean,atv_sherp,,,162.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002232.jpg,S3_PAIR_clean,atv_sherp,,,162.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002238.jpg,S3_PAIR_clean,atv_sherp,,,162.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002244.jpg,S3_PAIR_clean,atv_sherp,,,162.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002250.jpg,S3_PAIR_clean,atv_sherp,,,163.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002256.jpg,S3_PAIR_clean,atv_sherp,,,163.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002262.jpg,S3_PAIR_clean,atv_sherp,,,163.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002268.jpg,S3_PAIR_clean,atv_sherp,,,171.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002274.jpg,S3_PAIR_clean,atv_sherp,,,179.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002280.jpg,S3_PAIR_clean,atv_sherp,,,-178.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002286.jpg,S3_PAIR_clean,atv_sherp,,,-177.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002292.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002298.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002304.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002310.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002316.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002322.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002328.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002334.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002340.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002346.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002352.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002358.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002364.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002370.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002376.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002382.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002388.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002394.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002400.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002406.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002412.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002418.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002424.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002430.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002436.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002442.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002448.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002454.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002460.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002466.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002472.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002478.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002484.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002490.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002496.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002502.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002508.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002514.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002520.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002526.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002532.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002538.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002544.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002550.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002556.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002562.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002568.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002574.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002580.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002586.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002592.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002598.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002604.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002610.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002616.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002622.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002628.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002634.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002640.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002646.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002652.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002658.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002664.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002670.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002676.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002682.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002688.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002694.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002700.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002706.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002712.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002718.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002724.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002730.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002736.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002742.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002748.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002754.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002760.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002766.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002772.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002778.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002784.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002790.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002796.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002802.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002808.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002814.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002820.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002826.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002832.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002838.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002844.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002850.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002856.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002862.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002868.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002874.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002880.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002886.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002892.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002898.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002904.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002910.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002916.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002922.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002928.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002934.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002940.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002946.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002952.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002958.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002964.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002970.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002976.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002982.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002988.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f002994.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003000.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003006.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003012.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003018.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003024.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003030.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003036.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003042.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003048.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003054.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003060.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003066.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003072.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003078.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003084.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003090.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003096.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003102.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003108.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003114.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003120.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003126.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003132.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003138.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003144.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003150.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003156.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003162.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003168.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003174.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003180.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003186.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003192.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003198.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003204.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003210.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003216.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003222.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003228.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003234.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003240.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003246.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003252.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003258.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003264.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003270.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003276.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003282.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003288.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003294.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003300.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003306.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003312.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003318.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003324.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003330.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003336.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003342.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003348.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003354.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003360.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003366.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003372.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003378.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003384.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003390.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003396.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003402.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003408.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003414.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003420.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003426.jpg,S3_PAIR_clean,atv_sherp,,,-176.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003432.jpg,S3_PAIR_clean,atv_sherp,,,-175.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003438.jpg,S3_PAIR_clean,atv_sherp,,,-173.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003444.jpg,S3_PAIR_clean,atv_sherp,,,-173.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003450.jpg,S3_PAIR_clean,atv_sherp,,,-173.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003456.jpg,S3_PAIR_clean,atv_sherp,,,-173.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003462.jpg,S3_PAIR_clean,atv_sherp,,,-173.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003468.jpg,S3_PAIR_clean,atv_sherp,,,-172.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003474.jpg,S3_PAIR_clean,atv_sherp,,,-172.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003480.jpg,S3_PAIR_clean,atv_sherp,,,-172.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003486.jpg,S3_PAIR_clean,atv_sherp,,,-172.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003492.jpg,S3_PAIR_clean,atv_sherp,,,-172.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003498.jpg,S3_PAIR_clean,atv_sherp,,,-172.0,NOT_OCCLUDED,"clean flight, no strip deployed"
+S3_PAIR_clean_f003504.jpg,S3_PAIR_clean,atv_sherp,,,-171.0,NOT_OCCLUDED,"clean flight, no strip deployed"

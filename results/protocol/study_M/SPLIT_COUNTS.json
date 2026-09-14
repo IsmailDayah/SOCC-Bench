@@ -1,0 +1,14 @@
+{
+  "train": {
+    "frames": 10153,
+    "boxes": 13903
+  },
+  "val": {
+    "frames": 1134,
+    "boxes": 2498
+  },
+  "test": {
+    "frames": 2659,
+    "boxes": 4167
+  }
+}

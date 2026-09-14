@@ -1,0 +1,15 @@
+SOCC-Bench labels, manifests, flight logs, measured results and figures
+Copyright (c) 2026 Ismail Dayah Abdullahi
+
+Licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the licence, and
+indicate if changes were made.
+
+Attribution:
+  Abdullahi, I. D. (2026). SOCC-Bench: small and occluded object detection
+  from a low-altitude UAV.
+
+The source code in code/ is licensed separately under the MIT License (LICENSE).

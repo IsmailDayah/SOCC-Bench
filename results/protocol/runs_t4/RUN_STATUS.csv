@@ -1,0 +1,13 @@
+run,arm,seed,configured_epochs,patience,epochs_run,best_epoch,best_fitness,exit_code,done_marker,status,scored
+M4_yolov8n-p2_augmented_s123,M4_yolov8n-p2_augmented,123,100,30,84,54,0.6730,0,1,completed,1
+M4_yolov8n-p2_augmented_s42,M4_yolov8n-p2_augmented,42,100,30,75,45,0.6672,0,1,completed,1
+M4_yolov8n-p2_augmented_s456,M4_yolov8n-p2_augmented,456,100,30,82,52,0.6812,0,1,completed,1
+M4_yolov8n_augmented_s123,M4_yolov8n_augmented,123,100,30,36,26,0.6697,120,1,TRUNCATED: training stopped before early stopping could trigger (exit 120),1
+M4_yolov8n_augmented_s42,M4_yolov8n_augmented,42,100,30,20,17,0.6660,1,1,TRUNCATED: crashed (OSError Errno 5 while saving a checkpoint),1
+M4_yolov8n_augmented_s456,M4_yolov8n_augmented,456,100,30,76,46,0.6801,120,1,"completed (early stop reached; exit 120 = flush error at interpreter shutdown, after training)",1
+M4_yolov8n_s123,M4_yolov8n,123,100,30,52,22,0.6833,120,1,"completed (early stop reached; exit 120 = flush error at interpreter shutdown, after training)",1
+M4_yolov8n_s42,M4_yolov8n,42,100,30,78,48,0.6767,0,1,completed,1
+M4_yolov8n_s456,M4_yolov8n,456,100,30,88,58,0.6892,0,1,completed,1
+M4_yolov8s_augmented_s123,M4_yolov8s_augmented,123,100,30,85,60,0.6886,120,1,TRUNCATED: training stopped before early stopping could trigger (exit 120),1
+M4_yolov8s_augmented_s42,M4_yolov8s_augmented,42,100,30,33,30,0.6788,1,0,TRUNCATED: crashed (OSError Errno 5 while saving a checkpoint),0
+M4_yolov8s_augmented_s456,M4_yolov8s_augmented,456,100,30,63,33,0.6898,0,1,completed,1
